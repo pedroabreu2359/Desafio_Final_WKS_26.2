@@ -1,0 +1,523 @@
+﻿id_consulta,id_paciente,idade_paciente,genero_paciente,id_medico,especialidade_principal,medico_tempo_casa_dias,data_hora,dias_antecedencia_agendamento,dia_semana,periodo_dia,hora_consulta,mes,motivo_visita,sala_atendimento,valor_cobrado,tempo_medio_consulta_min,valor_base_consulta,consultas_anteriores_paciente,no_shows_anteriores_paciente,status_consulta,no_show
+1,9,36,Masculino,7,Endocrinologia,2981,2026-01-01 08:00:00,7,Quinta,Manhã,8,1,Ganho de peso não intencional,Sala 205,310.0,40,310.0,0,0,Realizada,0
+2,7,50,Masculino,7,Endocrinologia,2981,2026-01-01 08:15:00,17,Quinta,Manhã,8,1,Avaliação de alteração na tireoide,Sala 205,310.0,40,310.0,0,0,Realizada,0
+3,58,64,Feminino,7,Endocrinologia,2981,2026-01-01 13:00:00,8,Quinta,Tarde,13,1,Avaliação de alteração na tireoide,Sala 205,310.0,40,310.0,0,0,Realizada,0
+4,54,24,Feminino,5,Neurologia,4314,2026-01-02 17:45:00,1,Sexta,Tarde,17,1,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,0,0,Realizada,0
+5,68,33,Masculino,1,Cardiologia,2893,2026-01-03 16:45:00,5,Sábado,Tarde,16,1,Retorno de rotina cardiológica,Sala 101,300.0,40,300.0,0,0,Realizada,0
+6,47,20,Masculino,9,Psiquiatria,4941,2026-01-04 08:15:00,33,Domingo,Manhã,8,1,Dificuldade de concentração e sono,Sala 210,320.0,50,320.0,0,0,Realizada,0
+7,21,78,Feminino,5,Neurologia,4316,2026-01-04 11:30:00,3,Domingo,Manhã,11,1,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,0,0,Realizada,0
+8,54,24,Feminino,3,Ortopedia,3800,2026-01-04 11:45:00,40,Domingo,Manhã,11,1,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,1,0,Realizada,0
+9,25,8,Masculino,1,Cardiologia,2895,2026-01-05 15:00:00,33,Segunda,Tarde,15,1,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,0,0,Realizada,0
+10,7,50,Masculino,4,Pediatria,2177,2026-01-05 17:00:00,0,Segunda,Tarde,17,1,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,1,0,Realizada,0
+11,47,20,Masculino,10,Gastroenterologia,1367,2026-01-06 16:00:00,14,Terça,Tarde,16,1,Refluxo gastroesofágico e azia pós-refeições,Sala 106,290.0,35,290.0,1,0,Cancelada,1
+12,19,40,Masculino,4,Pediatria,2179,2026-01-07 09:45:00,1,Quarta,Manhã,9,1,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,0,0,Realizada,0
+13,47,20,Masculino,8,Oftalmologia,2303,2026-01-07 10:45:00,3,Quarta,Manhã,10,1,Visão embaçada de início recente,Sala 302,270.0,30,270.0,2,1,Realizada,0
+14,38,16,Masculino,4,Pediatria,2180,2026-01-08 10:15:00,18,Quinta,Manhã,10,1,Tosse persistente e coriza,Sala 301,260.0,45,260.0,0,0,Realizada,0
+15,10,32,Feminino,10,Gastroenterologia,1369,2026-01-08 14:30:00,3,Quinta,Tarde,14,1,Distensão abdominal frequente,Sala 106,290.0,35,290.0,0,0,Realizada,0
+16,38,16,Masculino,4,Pediatria,2181,2026-01-09 13:45:00,27,Sexta,Tarde,13,1,Consulta de puericultura,Sala 301,260.0,45,260.0,1,0,Cancelada,1
+17,51,5,Feminino,2,Dermatologia,2431,2026-01-09 15:45:00,11,Sexta,Tarde,15,1,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,0,0,Realizada,0
+18,22,8,Masculino,8,Oftalmologia,2306,2026-01-10 08:30:00,1,Sábado,Manhã,8,1,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,0,0,Cancelada,1
+19,56,14,Feminino,5,Neurologia,4323,2026-01-11 15:15:00,1,Domingo,Tarde,15,1,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,0,0,Realizada,0
+20,10,32,Feminino,10,Gastroenterologia,1374,2026-01-13 09:15:00,0,Terça,Manhã,9,1,Refluxo gastroesofágico e azia pós-refeições,Sala 106,290.0,35,290.0,1,0,Realizada,0
+21,14,55,Feminino,12,Clínica Geral,1978,2026-01-13 15:45:00,0,Terça,Tarde,15,1,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,0,0,Realizada,0
+22,19,40,Masculino,4,Pediatria,2186,2026-01-14 14:45:00,3,Quarta,Tarde,14,1,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,1,0,Realizada,0
+23,55,57,Masculino,8,Oftalmologia,2310,2026-01-14 15:30:00,7,Quarta,Tarde,15,1,Visão embaçada de início recente,Sala 302,270.0,30,270.0,0,0,Realizada,0
+24,60,6,Masculino,10,Gastroenterologia,1375,2026-01-14 15:45:00,19,Quarta,Tarde,15,1,Dor abdominal recorrente,Sala 106,290.0,35,290.0,0,0,Realizada,0
+25,12,7,Feminino,12,Clínica Geral,1980,2026-01-15 08:45:00,3,Quinta,Manhã,8,1,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,0,0,Realizada,0
+26,68,33,Masculino,6,Ginecologia e Obstetrícia,1659,2026-01-15 11:00:00,7,Quinta,Manhã,11,1,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,1,0,Realizada,0
+27,22,8,Masculino,5,Neurologia,4327,2026-01-15 13:15:00,4,Quinta,Tarde,13,1,Dor de cabeça crônica diária,Sala 204,350.0,50,350.0,1,1,Cancelada,1
+28,56,14,Feminino,1,Cardiologia,2907,2026-01-17 13:30:00,5,Sábado,Tarde,13,1,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,1,0,Realizada,0
+29,56,14,Feminino,10,Gastroenterologia,1378,2026-01-17 17:15:00,1,Sábado,Tarde,17,1,Dor abdominal recorrente,Sala 106,290.0,35,290.0,2,0,Cancelada,1
+30,54,24,Feminino,6,Ginecologia e Obstetrícia,1662,2026-01-18 09:30:00,7,Domingo,Manhã,9,1,Consulta de planejamento familiar,Sala 108,290.0,40,290.0,2,0,Cancelada,1
+31,54,24,Feminino,7,Endocrinologia,2998,2026-01-18 11:30:00,4,Domingo,Manhã,11,1,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,3,1,Cancelada,1
+32,17,69,Feminino,1,Cardiologia,2908,2026-01-18 16:00:00,7,Domingo,Tarde,16,1,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,0,0,Realizada,0
+33,60,6,Masculino,4,Pediatria,2191,2026-01-19 16:45:00,12,Segunda,Tarde,16,1,Consulta de puericultura,Sala 301,260.0,45,260.0,1,0,Realizada,0
+34,69,42,Masculino,5,Neurologia,4332,2026-01-20 14:30:00,4,Terça,Tarde,14,1,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,0,0,Realizada,0
+35,54,24,Feminino,8,Oftalmologia,2317,2026-01-21 13:45:00,1,Quarta,Tarde,13,1,Visão embaçada de início recente,Sala 302,270.0,30,270.0,4,2,Cancelada,1
+36,9,36,Masculino,1,Cardiologia,2912,2026-01-22 08:00:00,19,Quinta,Manhã,8,1,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,1,0,Cancelada,1
+37,13,45,Masculino,5,Neurologia,4335,2026-01-23 10:30:00,9,Sexta,Manhã,10,1,Investigação de distúrbio do sono,Sala 204,350.0,50,350.0,0,0,Realizada,0
+38,50,80,Feminino,8,Oftalmologia,2319,2026-01-23 16:45:00,18,Sexta,Tarde,16,1,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,0,0,Realizada,0
+39,66,69,Feminino,11,Pneumologia,3398,2026-01-24 16:45:00,10,Sábado,Tarde,16,1,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,0,0,Realizada,0
+40,35,41,Feminino,8,Oftalmologia,2321,2026-01-25 16:00:00,2,Domingo,Tarde,16,1,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,0,0,Realizada,0
+41,56,14,Feminino,3,Ortopedia,3822,2026-01-26 16:00:00,3,Segunda,Tarde,16,1,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,3,1,Realizada,0
+42,4,11,Feminino,6,Ginecologia e Obstetrícia,1671,2026-01-27 10:45:00,6,Terça,Manhã,10,1,Avaliação para reposição hormonal,Sala 108,290.0,40,290.0,0,0,Cancelada,1
+43,7,50,Masculino,7,Endocrinologia,3007,2026-01-27 14:15:00,1,Terça,Tarde,14,1,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,2,0,Realizada,0
+44,5,66,Masculino,1,Cardiologia,2917,2026-01-27 15:30:00,0,Terça,Tarde,15,1,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,0,0,Realizada,0
+45,51,5,Feminino,4,Pediatria,2199,2026-01-27 15:45:00,0,Terça,Tarde,15,1,Tosse persistente e coriza,Sala 301,260.0,45,260.0,1,0,Realizada,0
+46,36,45,Feminino,4,Pediatria,2200,2026-01-28 08:00:00,15,Quarta,Manhã,8,1,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,0,0,Cancelada,1
+47,1,57,Masculino,5,Neurologia,4340,2026-01-28 11:45:00,0,Quarta,Manhã,11,1,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,0,0,Realizada,0
+48,64,61,Feminino,4,Pediatria,2201,2026-01-29 16:15:00,1,Quinta,Tarde,16,1,Avaliação de calendário vacinal,Sala 301,260.0,45,260.0,0,0,Realizada,0
+49,69,42,Masculino,4,Pediatria,2202,2026-01-30 09:00:00,12,Sexta,Manhã,9,1,Acompanhamento de crescimento e desenvolvimento,Sala 301,260.0,45,260.0,1,0,Realizada,0
+50,40,71,Feminino,2,Dermatologia,2452,2026-01-30 13:00:00,0,Sexta,Tarde,13,1,Avaliação de pinta com mudança de cor,Sala 202,250.0,30,250.0,0,0,Realizada,0
+51,27,88,Feminino,4,Pediatria,2202,2026-01-30 13:15:00,11,Sexta,Tarde,13,1,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,0,0,Realizada,0
+52,47,20,Masculino,5,Neurologia,4343,2026-01-31 14:15:00,3,Sábado,Tarde,14,1,Formigamento em membros superiores,Sala 204,350.0,50,350.0,3,1,Realizada,0
+53,34,75,Feminino,9,Psiquiatria,4968,2026-01-31 15:00:00,43,Sábado,Tarde,15,1,Dificuldade de concentração e sono,Sala 210,320.0,50,320.0,0,0,Realizada,0
+54,17,70,Feminino,3,Ortopedia,3828,2026-02-01 08:30:00,5,Domingo,Manhã,8,2,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,1,0,Cancelada,1
+55,30,64,Feminino,3,Ortopedia,3828,2026-02-01 10:00:00,1,Domingo,Manhã,10,2,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,0,0,Realizada,0
+56,54,24,Feminino,6,Ginecologia e Obstetrícia,1676,2026-02-01 11:00:00,8,Domingo,Manhã,11,2,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,5,3,Realizada,0
+57,48,8,Masculino,3,Ortopedia,3828,2026-02-01 14:00:00,12,Domingo,Tarde,14,2,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,0,0,Realizada,0
+58,49,50,Masculino,5,Neurologia,4345,2026-02-02 11:15:00,27,Segunda,Manhã,11,2,Formigamento em membros superiores,Sala 204,350.0,50,350.0,0,0,Realizada,0
+59,13,45,Masculino,5,Neurologia,4345,2026-02-02 17:15:00,3,Segunda,Tarde,17,2,Dor de cabeça crônica diária,Sala 204,350.0,50,350.0,1,0,Cancelada,1
+60,10,32,Feminino,7,Endocrinologia,3014,2026-02-03 15:15:00,20,Terça,Tarde,15,2,Ajuste de dose de insulina,Sala 205,310.0,40,310.0,2,0,Realizada,0
+61,13,45,Masculino,11,Pneumologia,3409,2026-02-04 15:30:00,1,Quarta,Tarde,15,2,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,2,1,Realizada,0
+62,36,45,Feminino,10,Gastroenterologia,1396,2026-02-04 17:00:00,4,Quarta,Tarde,17,2,Alteração no hábito intestinal,Sala 106,290.0,35,290.0,1,1,Realizada,0
+63,33,11,Feminino,6,Ginecologia e Obstetrícia,1680,2026-02-05 10:00:00,0,Quinta,Manhã,10,2,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,0,0,Realizada,0
+64,35,41,Feminino,3,Ortopedia,3832,2026-02-05 11:15:00,4,Quinta,Manhã,11,2,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,1,0,Realizada,0
+65,54,24,Feminino,9,Psiquiatria,4974,2026-02-06 11:45:00,0,Sexta,Manhã,11,2,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,6,3,Realizada,0
+66,58,64,Feminino,3,Ortopedia,3833,2026-02-06 15:00:00,2,Sexta,Tarde,15,2,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,1,0,Realizada,0
+67,22,8,Masculino,4,Pediatria,2210,2026-02-07 17:00:00,31,Sábado,Tarde,17,2,Acompanhamento de crescimento e desenvolvimento,Sala 301,260.0,45,260.0,2,2,Cancelada,1
+68,4,11,Feminino,5,Neurologia,4350,2026-02-07 17:00:00,5,Sábado,Tarde,17,2,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,1,1,Cancelada,1
+69,62,40,Masculino,8,Oftalmologia,2335,2026-02-08 15:15:00,14,Domingo,Tarde,15,2,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,0,0,Realizada,0
+70,21,78,Feminino,2,Dermatologia,2462,2026-02-09 10:15:00,34,Segunda,Manhã,10,2,Acne persistente em tratamento,Sala 202,250.0,30,250.0,1,0,Cancelada,1
+71,22,8,Masculino,3,Ortopedia,3836,2026-02-09 15:30:00,10,Segunda,Tarde,15,2,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,3,3,Cancelada,1
+72,48,8,Masculino,1,Cardiologia,2930,2026-02-09 17:45:00,33,Segunda,Tarde,17,2,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,1,0,Realizada,0
+73,69,42,Masculino,7,Endocrinologia,3021,2026-02-10 09:45:00,0,Terça,Manhã,9,2,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,2,0,Realizada,0
+74,35,41,Feminino,6,Ginecologia e Obstetrícia,1685,2026-02-10 11:45:00,2,Terça,Manhã,11,2,Exame preventivo anual e cólicas,Sala 108,290.0,40,290.0,2,0,Realizada,0
+75,62,40,Masculino,9,Psiquiatria,4978,2026-02-10 15:45:00,3,Terça,Tarde,15,2,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,1,0,Realizada,0
+76,17,70,Feminino,4,Pediatria,2213,2026-02-10 17:30:00,4,Terça,Tarde,17,2,Consulta de puericultura,Sala 301,260.0,45,260.0,2,1,Realizada,0
+77,33,11,Feminino,2,Dermatologia,2465,2026-02-12 08:00:00,11,Quinta,Manhã,8,2,Acne persistente em tratamento,Sala 202,250.0,30,250.0,1,0,Realizada,0
+78,18,58,Feminino,2,Dermatologia,2465,2026-02-12 08:45:00,11,Quinta,Manhã,8,2,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,0,0,Realizada,0
+79,54,24,Feminino,12,Clínica Geral,2008,2026-02-12 08:45:00,4,Quinta,Manhã,8,2,Avaliação inicial de sintomas variados,Sala 102,200.0,30,200.0,7,3,Cancelada,1
+80,57,68,Masculino,12,Clínica Geral,2009,2026-02-13 14:00:00,1,Sexta,Tarde,14,2,Encaminhamento para especialista,Sala 102,200.0,30,200.0,0,0,Realizada,0
+81,27,88,Feminino,12,Clínica Geral,2009,2026-02-13 15:15:00,10,Sexta,Tarde,15,2,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,1,0,Realizada,0
+82,14,55,Feminino,5,Neurologia,4356,2026-02-13 17:00:00,19,Sexta,Tarde,17,2,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,1,0,Realizada,0
+83,33,11,Feminino,1,Cardiologia,2935,2026-02-14 10:45:00,5,Sábado,Manhã,10,2,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,2,0,Realizada,0
+84,10,32,Feminino,9,Psiquiatria,4982,2026-02-14 11:45:00,17,Sábado,Manhã,11,2,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,3,0,Realizada,0
+85,69,42,Masculino,5,Neurologia,4357,2026-02-14 15:15:00,1,Sábado,Tarde,15,2,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,3,0,Realizada,0
+86,16,8,Masculino,2,Dermatologia,2467,2026-02-14 17:45:00,33,Sábado,Tarde,17,2,Acne persistente em tratamento,Sala 202,250.0,30,250.0,0,0,Realizada,0
+87,27,88,Feminino,5,Neurologia,4358,2026-02-15 09:00:00,6,Domingo,Manhã,9,2,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,2,0,Cancelada,1
+88,32,46,Masculino,5,Neurologia,4358,2026-02-15 13:45:00,1,Domingo,Tarde,13,2,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,0,0,Realizada,0
+89,4,11,Feminino,9,Psiquiatria,4984,2026-02-16 09:45:00,16,Segunda,Manhã,9,2,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,2,2,Cancelada,1
+90,28,66,Feminino,4,Pediatria,2219,2026-02-16 11:00:00,3,Segunda,Manhã,11,2,Tosse persistente e coriza,Sala 301,260.0,45,260.0,0,0,Realizada,0
+91,64,61,Feminino,3,Ortopedia,3843,2026-02-16 13:45:00,7,Segunda,Tarde,13,2,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,1,0,Realizada,0
+92,17,70,Feminino,2,Dermatologia,2470,2026-02-17 11:15:00,6,Terça,Manhã,11,2,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,3,1,Cancelada,1
+93,54,24,Feminino,5,Neurologia,4360,2026-02-17 11:30:00,12,Terça,Manhã,11,2,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,8,4,Realizada,0
+94,21,78,Feminino,3,Ortopedia,3845,2026-02-18 08:30:00,2,Quarta,Manhã,8,2,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,2,1,Realizada,0
+95,17,70,Feminino,11,Pneumologia,3423,2026-02-18 16:30:00,4,Quarta,Tarde,16,2,Falta de ar aos esforços leves,Sala 207,280.0,35,280.0,4,2,Realizada,0
+96,47,20,Masculino,7,Endocrinologia,3029,2026-02-18 16:45:00,7,Quarta,Tarde,16,2,Ganho de peso não intencional,Sala 205,310.0,40,310.0,4,1,Realizada,0
+97,18,58,Feminino,2,Dermatologia,2471,2026-02-18 17:45:00,9,Quarta,Tarde,17,2,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,1,0,Realizada,0
+98,10,32,Feminino,11,Pneumologia,3424,2026-02-19 11:30:00,0,Quinta,Manhã,11,2,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,4,0,Realizada,0
+99,47,20,Masculino,5,Neurologia,4362,2026-02-19 16:45:00,13,Quinta,Tarde,16,2,Formigamento em membros superiores,Sala 204,350.0,50,350.0,5,1,Realizada,0
+100,70,45,Masculino,6,Ginecologia e Obstetrícia,1695,2026-02-20 11:00:00,20,Sexta,Manhã,11,2,Exame preventivo anual e cólicas,Sala 108,290.0,40,290.0,0,0,Realizada,0
+101,54,24,Feminino,2,Dermatologia,2473,2026-02-20 11:45:00,9,Sexta,Manhã,11,2,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,9,4,Cancelada,1
+102,17,70,Feminino,12,Clínica Geral,2017,2026-02-21 09:00:00,2,Sábado,Manhã,9,2,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,5,2,Realizada,0
+103,38,16,Masculino,1,Cardiologia,2942,2026-02-21 13:00:00,5,Sábado,Tarde,13,2,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,2,1,Cancelada,1
+104,18,58,Feminino,12,Clínica Geral,2018,2026-02-22 09:00:00,0,Domingo,Manhã,9,2,Mal-estar geral inespecífico,Sala 102,200.0,30,200.0,2,0,Realizada,0
+105,44,50,Masculino,11,Pneumologia,3427,2026-02-22 09:45:00,2,Domingo,Manhã,9,2,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,0,0,Realizada,0
+106,48,8,Masculino,1,Cardiologia,2943,2026-02-22 16:15:00,3,Domingo,Tarde,16,2,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,2,0,Realizada,0
+107,16,8,Masculino,12,Clínica Geral,2019,2026-02-23 13:15:00,7,Segunda,Tarde,13,2,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,1,0,Realizada,0
+108,54,24,Feminino,11,Pneumologia,3428,2026-02-23 17:00:00,10,Segunda,Tarde,17,2,Falta de ar aos esforços leves,Sala 207,280.0,35,280.0,10,5,Cancelada,1
+109,9,36,Masculino,12,Clínica Geral,2020,2026-02-24 11:15:00,4,Terça,Manhã,11,2,Mal-estar geral inespecífico,Sala 102,200.0,30,200.0,2,1,Realizada,0
+110,27,88,Feminino,4,Pediatria,2227,2026-02-24 15:00:00,1,Terça,Tarde,15,2,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,3,1,Cancelada,1
+111,47,20,Masculino,6,Ginecologia e Obstetrícia,1699,2026-02-24 15:30:00,0,Terça,Tarde,15,2,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,6,1,Realizada,0
+112,65,71,Feminino,12,Clínica Geral,2022,2026-02-26 08:00:00,7,Quinta,Manhã,8,2,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,0,0,Realizada,0
+113,7,50,Masculino,3,Ortopedia,3853,2026-02-26 09:15:00,2,Quinta,Manhã,9,2,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,3,0,Cancelada,1
+114,27,88,Feminino,9,Psiquiatria,4995,2026-02-27 14:30:00,9,Sexta,Tarde,14,2,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,4,2,Realizada,0
+115,23,62,Masculino,5,Neurologia,4371,2026-02-28 08:30:00,5,Sábado,Manhã,8,2,Formigamento em membros superiores,Sala 204,350.0,50,350.0,0,0,Realizada,0
+116,35,41,Feminino,4,Pediatria,2231,2026-02-28 11:00:00,0,Sábado,Manhã,11,2,Consulta de puericultura,Sala 301,260.0,45,260.0,3,0,Realizada,0
+117,33,11,Feminino,7,Endocrinologia,3039,2026-02-28 13:15:00,6,Sábado,Tarde,13,2,Investigação de fadiga crônica,Sala 205,310.0,40,310.0,3,0,Realizada,0
+118,36,46,Feminino,3,Ortopedia,3855,2026-02-28 17:00:00,5,Sábado,Tarde,17,2,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,2,1,Realizada,0
+119,30,65,Feminino,3,Ortopedia,3855,2026-02-28 17:45:00,8,Sábado,Tarde,17,2,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,1,0,Realizada,0
+120,63,81,Feminino,11,Pneumologia,3434,2026-03-01 10:15:00,21,Domingo,Manhã,10,3,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,0,0,Cancelada,1
+121,4,11,Feminino,8,Oftalmologia,2356,2026-03-01 11:15:00,0,Domingo,Manhã,11,3,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,3,3,Cancelada,1
+122,60,6,Masculino,3,Ortopedia,3856,2026-03-01 17:30:00,0,Domingo,Tarde,17,3,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,2,0,Realizada,0
+123,54,24,Feminino,4,Pediatria,2233,2026-03-02 13:45:00,8,Segunda,Tarde,13,3,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,11,6,Realizada,0
+124,59,32,Masculino,8,Oftalmologia,2358,2026-03-03 08:00:00,10,Terça,Manhã,8,3,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,0,0,Cancelada,1
+125,68,33,Masculino,10,Gastroenterologia,1423,2026-03-03 15:30:00,0,Terça,Tarde,15,3,Refluxo gastroesofágico e azia pós-refeições,Sala 106,290.0,35,290.0,2,0,Realizada,0
+126,56,14,Feminino,7,Endocrinologia,3042,2026-03-03 15:45:00,11,Terça,Tarde,15,3,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,4,1,Realizada,0
+127,24,19,Masculino,4,Pediatria,2235,2026-03-04 08:30:00,7,Quarta,Manhã,8,3,Acompanhamento de crescimento e desenvolvimento,Sala 301,260.0,45,260.0,0,0,Realizada,0
+128,58,64,Feminino,6,Ginecologia e Obstetrícia,1707,2026-03-04 10:15:00,6,Quarta,Manhã,10,3,Avaliação para reposição hormonal,Sala 108,290.0,40,290.0,2,0,Realizada,0
+129,69,43,Masculino,12,Clínica Geral,2028,2026-03-04 16:30:00,12,Quarta,Tarde,16,3,Encaminhamento para especialista,Sala 102,200.0,30,200.0,4,0,Realizada,0
+130,38,16,Masculino,2,Dermatologia,2486,2026-03-05 08:45:00,19,Quinta,Manhã,8,3,Ressecamento e descamação na pele,Sala 202,250.0,30,250.0,3,2,Realizada,0
+131,37,33,Feminino,9,Psiquiatria,5002,2026-03-06 16:00:00,11,Sexta,Tarde,16,3,Retorno para ajuste de medicação,Sala 210,320.0,50,320.0,0,0,Realizada,0
+132,30,65,Feminino,10,Gastroenterologia,1427,2026-03-07 13:45:00,10,Sábado,Tarde,13,3,Dor abdominal recorrente,Sala 106,290.0,35,290.0,2,0,Realizada,0
+133,44,50,Masculino,11,Pneumologia,3440,2026-03-07 15:00:00,40,Sábado,Tarde,15,3,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,1,0,Realizada,0
+134,50,80,Feminino,4,Pediatria,2239,2026-03-08 15:00:00,0,Domingo,Tarde,15,3,Consulta de puericultura,Sala 301,260.0,45,260.0,1,0,Cancelada,1
+135,5,66,Masculino,3,Ortopedia,3864,2026-03-09 10:00:00,5,Segunda,Manhã,10,3,Dor no ombro ao levantar peso,Sala 105,280.0,30,280.0,1,0,Realizada,0
+136,21,78,Feminino,10,Gastroenterologia,1429,2026-03-09 10:15:00,16,Segunda,Manhã,10,3,Refluxo gastroesofágico e azia pós-refeições,Sala 106,290.0,35,290.0,3,1,Cancelada,1
+137,61,88,Feminino,1,Cardiologia,2958,2026-03-09 10:45:00,20,Segunda,Manhã,10,3,Avaliação de picos hipertensivos matinais,Sala 101,300.0,40,300.0,0,0,Realizada,0
+138,62,40,Masculino,2,Dermatologia,2490,2026-03-09 13:00:00,3,Segunda,Tarde,13,3,Avaliação de pinta com mudança de cor,Sala 202,250.0,30,250.0,2,0,Cancelada,1
+139,54,24,Feminino,1,Cardiologia,2959,2026-03-10 13:15:00,18,Terça,Tarde,13,3,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,12,6,Realizada,0
+140,17,70,Feminino,2,Dermatologia,2491,2026-03-10 14:00:00,5,Terça,Tarde,14,3,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,6,2,Realizada,0
+141,49,50,Masculino,10,Gastroenterologia,1431,2026-03-11 09:30:00,10,Quarta,Manhã,9,3,Refluxo gastroesofágico e azia pós-refeições,Sala 106,290.0,35,290.0,1,0,Realizada,0
+142,36,46,Feminino,7,Endocrinologia,3050,2026-03-11 17:45:00,12,Quarta,Tarde,17,3,Ganho de peso não intencional,Sala 205,310.0,40,310.0,3,1,Realizada,0
+143,47,20,Masculino,4,Pediatria,2245,2026-03-14 13:00:00,14,Sábado,Tarde,13,3,Consulta de puericultura,Sala 301,260.0,45,260.0,7,1,Realizada,0
+144,13,45,Masculino,12,Clínica Geral,2038,2026-03-14 13:15:00,16,Sábado,Tarde,13,3,Renovação de receita contínua,Sala 102,200.0,30,200.0,3,1,Realizada,0
+145,27,88,Feminino,7,Endocrinologia,3054,2026-03-15 09:30:00,3,Domingo,Manhã,9,3,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,5,2,Realizada,0
+146,5,66,Masculino,9,Psiquiatria,5011,2026-03-15 11:15:00,2,Domingo,Manhã,11,3,Retorno para ajuste de medicação,Sala 210,320.0,50,320.0,2,0,Realizada,0
+147,58,64,Feminino,3,Ortopedia,3870,2026-03-15 17:15:00,31,Domingo,Tarde,17,3,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,3,0,Cancelada,1
+148,23,62,Masculino,5,Neurologia,4387,2026-03-16 11:15:00,3,Segunda,Manhã,11,3,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,1,0,Realizada,0
+149,12,7,Feminino,12,Clínica Geral,2040,2026-03-16 13:30:00,11,Segunda,Tarde,13,3,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,1,0,Realizada,0
+150,47,20,Masculino,9,Psiquiatria,5012,2026-03-16 14:00:00,10,Segunda,Tarde,14,3,Episódios de tristeza persistente,Sala 210,320.0,50,320.0,8,1,Cancelada,1
+151,20,39,Feminino,2,Dermatologia,2498,2026-03-17 15:15:00,2,Terça,Tarde,15,3,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,0,0,Realizada,0
+152,17,70,Feminino,3,Ortopedia,3873,2026-03-18 10:45:00,30,Quarta,Manhã,10,3,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,7,2,Realizada,0
+153,56,14,Feminino,8,Oftalmologia,2373,2026-03-18 13:45:00,10,Quarta,Tarde,13,3,Dificuldade para enxergar de longe e vista cansada,Sala 302,270.0,30,270.0,5,1,Realizada,0
+154,10,32,Feminino,6,Ginecologia e Obstetrícia,1721,2026-03-18 17:45:00,15,Quarta,Tarde,17,3,Avaliação para reposição hormonal,Sala 108,290.0,40,290.0,5,0,Realizada,0
+155,54,24,Feminino,2,Dermatologia,2500,2026-03-19 10:15:00,4,Quinta,Manhã,10,3,Ressecamento e descamação na pele,Sala 202,250.0,30,250.0,13,6,Realizada,0
+156,54,24,Feminino,11,Pneumologia,3453,2026-03-20 08:45:00,13,Sexta,Manhã,8,3,Falta de ar aos esforços leves,Sala 207,280.0,35,280.0,14,6,Realizada,0
+157,61,88,Feminino,11,Pneumologia,3453,2026-03-20 09:15:00,1,Sexta,Manhã,9,3,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,1,0,Realizada,0
+158,54,24,Feminino,5,Neurologia,4391,2026-03-20 11:30:00,4,Sexta,Manhã,11,3,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,15,6,Cancelada,1
+159,48,8,Masculino,12,Clínica Geral,2044,2026-03-20 15:30:00,28,Sexta,Tarde,15,3,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,3,0,Cancelada,1
+160,35,41,Feminino,11,Pneumologia,3455,2026-03-22 10:30:00,3,Domingo,Manhã,10,3,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,4,0,Realizada,0
+161,56,14,Feminino,4,Pediatria,2254,2026-03-23 11:00:00,2,Segunda,Manhã,11,3,Acompanhamento de crescimento e desenvolvimento,Sala 301,260.0,45,260.0,6,1,Realizada,0
+162,68,33,Masculino,8,Oftalmologia,2379,2026-03-24 10:15:00,21,Terça,Manhã,10,3,Sensibilidade excessiva à luz,Sala 302,270.0,30,270.0,3,0,Realizada,0
+163,27,88,Feminino,12,Clínica Geral,2048,2026-03-24 10:15:00,0,Terça,Manhã,10,3,Mal-estar geral inespecífico,Sala 102,200.0,30,200.0,6,2,Realizada,0
+164,49,50,Masculino,1,Cardiologia,2973,2026-03-24 13:15:00,15,Terça,Tarde,13,3,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,2,0,Realizada,0
+165,66,69,Feminino,6,Ginecologia e Obstetrícia,1727,2026-03-24 14:00:00,1,Terça,Tarde,14,3,Dor pélvica recorrente,Sala 108,290.0,40,290.0,1,0,Realizada,0
+166,64,61,Feminino,7,Endocrinologia,3063,2026-03-24 15:00:00,11,Terça,Tarde,15,3,Ganho de peso não intencional,Sala 205,310.0,40,310.0,2,0,Realizada,0
+167,47,20,Masculino,7,Endocrinologia,3064,2026-03-25 08:45:00,4,Quarta,Manhã,8,3,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,9,2,Realizada,0
+168,38,16,Masculino,8,Oftalmologia,2380,2026-03-25 16:15:00,0,Quarta,Tarde,16,3,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,4,2,Cancelada,1
+169,7,50,Masculino,7,Endocrinologia,3064,2026-03-25 16:45:00,0,Quarta,Tarde,16,3,Ganho de peso não intencional,Sala 205,310.0,40,310.0,4,1,Realizada,0
+170,27,88,Feminino,1,Cardiologia,2975,2026-03-26 09:30:00,3,Quinta,Manhã,9,3,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,7,2,Realizada,0
+171,20,39,Feminino,3,Ortopedia,3882,2026-03-27 11:15:00,4,Sexta,Manhã,11,3,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,1,0,Realizada,0
+172,61,88,Feminino,12,Clínica Geral,2053,2026-03-29 11:00:00,8,Domingo,Manhã,11,3,Avaliação inicial de sintomas variados,Sala 102,200.0,30,200.0,2,0,Realizada,0
+173,69,43,Masculino,9,Psiquiatria,5026,2026-03-30 13:45:00,4,Segunda,Tarde,13,3,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,5,0,Realizada,0
+174,7,50,Masculino,12,Clínica Geral,2055,2026-03-31 13:30:00,11,Terça,Tarde,13,3,Avaliação inicial de sintomas variados,Sala 102,200.0,30,200.0,5,1,Realizada,0
+175,47,20,Masculino,7,Endocrinologia,3071,2026-04-01 10:45:00,1,Quarta,Manhã,10,4,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,10,2,Realizada,0
+176,17,70,Feminino,2,Dermatologia,2513,2026-04-01 14:30:00,5,Quarta,Tarde,14,4,Ressecamento e descamação na pele,Sala 202,250.0,30,250.0,8,2,Realizada,0
+177,32,46,Masculino,11,Pneumologia,3465,2026-04-01 17:15:00,13,Quarta,Tarde,17,4,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,1,0,Realizada,0
+178,11,64,Masculino,5,Neurologia,4405,2026-04-03 15:15:00,13,Sexta,Tarde,15,4,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,0,0,Realizada,0
+179,22,8,Masculino,7,Endocrinologia,3074,2026-04-04 08:15:00,41,Sábado,Manhã,8,4,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,4,4,Cancelada,1
+180,68,33,Masculino,9,Psiquiatria,5032,2026-04-05 08:45:00,7,Domingo,Manhã,8,4,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,4,0,Realizada,0
+181,34,75,Feminino,11,Pneumologia,3469,2026-04-05 10:00:00,9,Domingo,Manhã,10,4,Falta de ar aos esforços leves,Sala 207,280.0,35,280.0,1,0,Realizada,0
+182,51,6,Feminino,1,Cardiologia,2985,2026-04-05 16:15:00,1,Domingo,Tarde,16,4,"Histórico familiar de infarto, avaliação preventiva",Sala 101,300.0,40,300.0,2,0,Realizada,0
+183,35,41,Feminino,4,Pediatria,2269,2026-04-07 13:30:00,0,Terça,Tarde,13,4,Consulta de puericultura,Sala 301,260.0,45,260.0,5,0,Realizada,0
+184,34,75,Feminino,10,Gastroenterologia,1458,2026-04-07 14:45:00,10,Terça,Tarde,14,4,Investigação de gastrite crônica,Sala 106,290.0,35,290.0,2,0,Realizada,0
+185,22,8,Masculino,11,Pneumologia,3471,2026-04-07 15:15:00,11,Terça,Tarde,15,4,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,5,5,Cancelada,1
+186,49,50,Masculino,9,Psiquiatria,5034,2026-04-07 17:15:00,11,Terça,Tarde,17,4,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,3,0,Realizada,0
+187,51,6,Feminino,5,Neurologia,4409,2026-04-07 17:15:00,0,Terça,Tarde,17,4,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,3,0,Realizada,0
+188,27,88,Feminino,9,Psiquiatria,5035,2026-04-08 08:45:00,29,Quarta,Manhã,8,4,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,8,2,Realizada,0
+189,32,46,Masculino,9,Psiquiatria,5035,2026-04-08 10:45:00,7,Quarta,Manhã,10,4,Retorno para ajuste de medicação,Sala 210,320.0,50,320.0,2,0,Realizada,0
+190,33,12,Feminino,3,Ortopedia,3894,2026-04-08 11:30:00,1,Quarta,Manhã,11,4,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,4,0,Realizada,0
+191,9,36,Masculino,12,Clínica Geral,2063,2026-04-08 15:00:00,7,Quarta,Tarde,15,4,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,3,1,Cancelada,1
+192,24,19,Masculino,10,Gastroenterologia,1459,2026-04-08 17:45:00,11,Quarta,Tarde,17,4,Dor abdominal recorrente,Sala 106,290.0,35,290.0,1,0,Realizada,0
+193,19,40,Masculino,8,Oftalmologia,2395,2026-04-09 09:00:00,1,Quinta,Manhã,9,4,Sensibilidade excessiva à luz,Sala 302,270.0,30,270.0,2,0,Realizada,0
+194,69,43,Masculino,3,Ortopedia,3895,2026-04-09 14:15:00,6,Quinta,Tarde,14,4,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,6,0,Realizada,0
+195,34,75,Feminino,1,Cardiologia,2990,2026-04-10 08:00:00,12,Sexta,Manhã,8,4,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,3,0,Realizada,0
+196,34,75,Feminino,4,Pediatria,2272,2026-04-10 13:30:00,2,Sexta,Tarde,13,4,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,4,0,Realizada,0
+197,34,75,Feminino,2,Dermatologia,2522,2026-04-10 16:45:00,26,Sexta,Tarde,16,4,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,5,0,Realizada,0
+198,27,88,Feminino,7,Endocrinologia,3081,2026-04-11 09:00:00,9,Sábado,Manhã,9,4,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,9,2,Realizada,0
+199,35,41,Feminino,4,Pediatria,2273,2026-04-11 14:00:00,2,Sábado,Tarde,14,4,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,6,0,Realizada,0
+200,51,6,Feminino,2,Dermatologia,2523,2026-04-11 17:45:00,22,Sábado,Tarde,17,4,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,4,0,Realizada,0
+201,54,25,Feminino,11,Pneumologia,3477,2026-04-13 09:15:00,34,Segunda,Manhã,9,4,Falta de ar aos esforços leves,Sala 207,280.0,35,280.0,16,7,Realizada,0
+202,34,75,Feminino,9,Psiquiatria,5041,2026-04-14 10:45:00,3,Terça,Manhã,10,4,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,6,0,Realizada,0
+203,8,21,Feminino,11,Pneumologia,3478,2026-04-14 17:30:00,17,Terça,Tarde,17,4,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,0,0,Realizada,0
+204,54,25,Feminino,10,Gastroenterologia,1466,2026-04-15 09:30:00,10,Quarta,Manhã,9,4,Refluxo gastroesofágico e azia pós-refeições,Sala 106,290.0,35,290.0,17,7,Realizada,0
+205,27,88,Feminino,9,Psiquiatria,5042,2026-04-15 11:00:00,3,Quarta,Manhã,11,4,Episódios de tristeza persistente,Sala 210,320.0,50,320.0,10,2,Realizada,0
+206,34,75,Feminino,12,Clínica Geral,2070,2026-04-15 15:15:00,5,Quarta,Tarde,15,4,Encaminhamento para especialista,Sala 102,200.0,30,200.0,7,0,Realizada,0
+207,7,51,Masculino,12,Clínica Geral,2070,2026-04-15 17:45:00,9,Quarta,Tarde,17,4,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,6,1,Realizada,0
+208,36,46,Feminino,10,Gastroenterologia,1467,2026-04-16 08:15:00,2,Quinta,Manhã,8,4,Distensão abdominal frequente,Sala 106,290.0,35,290.0,4,1,Realizada,0
+209,66,69,Feminino,10,Gastroenterologia,1467,2026-04-16 10:30:00,0,Quinta,Manhã,10,4,Investigação de gastrite crônica,Sala 106,290.0,35,290.0,2,0,Realizada,0
+210,34,75,Feminino,2,Dermatologia,2529,2026-04-17 11:00:00,4,Sexta,Manhã,11,4,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,8,0,Realizada,0
+211,34,75,Feminino,1,Cardiologia,2997,2026-04-17 14:00:00,1,Sexta,Tarde,14,4,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,9,0,Realizada,0
+212,9,36,Masculino,9,Psiquiatria,5045,2026-04-18 08:15:00,4,Sábado,Manhã,8,4,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,4,2,Cancelada,1
+213,54,25,Feminino,2,Dermatologia,2530,2026-04-18 09:45:00,6,Sábado,Manhã,9,4,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,18,7,Cancelada,1
+214,6,27,Feminino,4,Pediatria,2281,2026-04-19 13:15:00,8,Domingo,Tarde,13,4,Avaliação de calendário vacinal,Sala 301,260.0,45,260.0,0,0,Realizada,0
+215,11,64,Masculino,2,Dermatologia,2531,2026-04-19 17:15:00,4,Domingo,Tarde,17,4,Avaliação de pinta com mudança de cor,Sala 202,250.0,30,250.0,1,0,Realizada,0
+216,38,16,Masculino,1,Cardiologia,3000,2026-04-20 10:00:00,3,Segunda,Manhã,10,4,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,5,3,Realizada,0
+217,18,58,Feminino,6,Ginecologia e Obstetrícia,1756,2026-04-22 10:15:00,21,Quarta,Manhã,10,4,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,3,0,Realizada,0
+218,38,16,Masculino,11,Pneumologia,3486,2026-04-22 11:30:00,2,Quarta,Manhã,11,4,Acompanhamento de asma,Sala 207,280.0,35,280.0,6,3,Realizada,0
+219,68,33,Masculino,2,Dermatologia,2534,2026-04-22 13:30:00,2,Quarta,Tarde,13,4,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,5,0,Realizada,0
+220,7,51,Masculino,4,Pediatria,2284,2026-04-22 16:30:00,1,Quarta,Tarde,16,4,Tosse persistente e coriza,Sala 301,260.0,45,260.0,7,1,Realizada,0
+221,4,11,Feminino,7,Endocrinologia,3093,2026-04-23 13:15:00,9,Quinta,Tarde,13,4,Ganho de peso não intencional,Sala 205,310.0,40,310.0,4,4,Cancelada,1
+222,54,25,Feminino,7,Endocrinologia,3096,2026-04-26 09:15:00,10,Domingo,Manhã,9,4,Investigação de fadiga crônica,Sala 205,310.0,40,310.0,19,8,Realizada,0
+223,27,88,Feminino,8,Oftalmologia,2412,2026-04-26 16:45:00,32,Domingo,Tarde,16,4,Sensibilidade excessiva à luz,Sala 302,270.0,30,270.0,11,2,Realizada,0
+224,22,8,Masculino,12,Clínica Geral,2083,2026-04-28 13:30:00,11,Terça,Tarde,13,4,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,6,6,Cancelada,1
+225,41,58,Masculino,12,Clínica Geral,2083,2026-04-28 14:00:00,11,Terça,Tarde,14,4,Encaminhamento para especialista,Sala 102,200.0,30,200.0,0,0,Realizada,0
+226,55,57,Masculino,4,Pediatria,2291,2026-04-29 09:45:00,0,Quarta,Manhã,9,4,Acompanhamento de crescimento e desenvolvimento,Sala 301,260.0,45,260.0,1,0,Realizada,0
+227,69,43,Masculino,1,Cardiologia,3010,2026-04-30 17:15:00,1,Quinta,Tarde,17,4,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,7,0,Realizada,0
+228,21,78,Feminino,12,Clínica Geral,2086,2026-05-01 08:30:00,13,Sexta,Manhã,8,5,Encaminhamento para especialista,Sala 102,200.0,30,200.0,4,2,Realizada,0
+229,64,61,Feminino,10,Gastroenterologia,1482,2026-05-01 09:45:00,2,Sexta,Manhã,9,5,Distensão abdominal frequente,Sala 106,290.0,35,290.0,3,0,Realizada,0
+230,24,19,Masculino,11,Pneumologia,3496,2026-05-02 08:15:00,2,Sábado,Manhã,8,5,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,2,0,Realizada,0
+231,47,20,Masculino,7,Endocrinologia,3102,2026-05-02 13:00:00,1,Sábado,Tarde,13,5,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,11,2,Realizada,0
+232,10,32,Feminino,5,Neurologia,4434,2026-05-02 13:00:00,5,Sábado,Tarde,13,5,Investigação de distúrbio do sono,Sala 204,350.0,50,350.0,6,0,Realizada,0
+233,13,45,Masculino,1,Cardiologia,3012,2026-05-02 13:30:00,21,Sábado,Tarde,13,5,"Histórico familiar de infarto, avaliação preventiva",Sala 101,300.0,40,300.0,4,1,Realizada,0
+234,35,41,Feminino,9,Psiquiatria,5060,2026-05-03 13:15:00,6,Domingo,Tarde,13,5,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,7,0,Realizada,0
+235,70,45,Masculino,2,Dermatologia,2546,2026-05-04 13:45:00,1,Segunda,Tarde,13,5,Avaliação de pinta com mudança de cor,Sala 202,250.0,30,250.0,1,0,Realizada,0
+236,25,9,Masculino,3,Ortopedia,3920,2026-05-04 17:00:00,8,Segunda,Tarde,17,5,Dor intensa no joelho direito pós-corrida,Sala 105,280.0,30,280.0,1,0,Cancelada,1
+237,3,43,Masculino,8,Oftalmologia,2421,2026-05-05 10:30:00,0,Terça,Manhã,10,5,Sensibilidade excessiva à luz,Sala 302,270.0,30,270.0,0,0,Realizada,0
+238,36,46,Feminino,3,Ortopedia,3922,2026-05-06 08:30:00,5,Quarta,Manhã,8,5,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,5,1,Realizada,0
+239,55,57,Masculino,7,Endocrinologia,3106,2026-05-06 11:15:00,1,Quarta,Manhã,11,5,Ganho de peso não intencional,Sala 205,310.0,40,310.0,2,0,Realizada,0
+240,60,6,Masculino,1,Cardiologia,3017,2026-05-07 08:45:00,21,Quinta,Manhã,8,5,Avaliação de picos hipertensivos matinais,Sala 101,300.0,40,300.0,3,0,Cancelada,1
+241,70,45,Masculino,6,Ginecologia e Obstetrícia,1771,2026-05-07 09:00:00,7,Quinta,Manhã,9,5,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,2,0,Realizada,0
+242,19,40,Masculino,8,Oftalmologia,2423,2026-05-07 13:00:00,4,Quinta,Tarde,13,5,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,3,0,Realizada,0
+243,35,41,Feminino,9,Psiquiatria,5064,2026-05-07 14:30:00,16,Quinta,Tarde,14,5,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,8,0,Realizada,0
+244,60,6,Masculino,4,Pediatria,2300,2026-05-08 10:15:00,5,Sexta,Manhã,10,5,Tosse persistente e coriza,Sala 301,260.0,45,260.0,4,1,Realizada,0
+245,36,46,Feminino,10,Gastroenterologia,1489,2026-05-08 11:30:00,9,Sexta,Manhã,11,5,Alteração no hábito intestinal,Sala 106,290.0,35,290.0,6,1,Realizada,0
+246,24,19,Masculino,11,Pneumologia,3502,2026-05-08 15:00:00,12,Sexta,Tarde,15,5,Acompanhamento de asma,Sala 207,280.0,35,280.0,3,0,Realizada,0
+247,25,9,Masculino,8,Oftalmologia,2425,2026-05-09 17:45:00,2,Sábado,Tarde,17,5,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,2,1,Realizada,0
+248,61,88,Feminino,10,Gastroenterologia,1491,2026-05-10 08:15:00,4,Domingo,Manhã,8,5,Distensão abdominal frequente,Sala 106,290.0,35,290.0,3,0,Realizada,0
+249,16,8,Masculino,8,Oftalmologia,2426,2026-05-10 10:30:00,9,Domingo,Manhã,10,5,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,2,0,Cancelada,1
+250,65,71,Feminino,3,Ortopedia,3926,2026-05-10 14:30:00,5,Domingo,Tarde,14,5,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,1,0,Realizada,0
+251,34,75,Feminino,5,Neurologia,4442,2026-05-10 15:30:00,3,Domingo,Tarde,15,5,Investigação de distúrbio do sono,Sala 204,350.0,50,350.0,10,0,Cancelada,1
+252,48,9,Masculino,2,Dermatologia,2553,2026-05-11 13:00:00,7,Segunda,Tarde,13,5,Avaliação de pinta com mudança de cor,Sala 202,250.0,30,250.0,4,1,Cancelada,1
+253,19,40,Masculino,9,Psiquiatria,5068,2026-05-11 13:30:00,5,Segunda,Tarde,13,5,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,4,0,Realizada,0
+254,23,63,Masculino,12,Clínica Geral,2097,2026-05-12 15:15:00,7,Terça,Tarde,15,5,Encaminhamento para especialista,Sala 102,200.0,30,200.0,2,0,Realizada,0
+255,10,32,Feminino,6,Ginecologia e Obstetrícia,1776,2026-05-12 15:30:00,3,Terça,Tarde,15,5,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,7,0,Realizada,0
+256,63,81,Feminino,2,Dermatologia,2555,2026-05-13 09:30:00,21,Quarta,Manhã,9,5,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,1,1,Cancelada,1
+257,37,34,Feminino,1,Cardiologia,3023,2026-05-13 11:00:00,8,Quarta,Manhã,11,5,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,1,0,Realizada,0
+258,31,71,Feminino,2,Dermatologia,2555,2026-05-13 16:45:00,0,Quarta,Tarde,16,5,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,0,0,Realizada,0
+259,22,8,Masculino,4,Pediatria,2306,2026-05-14 10:30:00,7,Quinta,Manhã,10,5,Tosse persistente e coriza,Sala 301,260.0,45,260.0,7,7,Cancelada,1
+260,51,6,Feminino,7,Endocrinologia,3114,2026-05-14 11:15:00,9,Quinta,Manhã,11,5,Ganho de peso não intencional,Sala 205,310.0,40,310.0,5,0,Realizada,0
+261,17,70,Feminino,6,Ginecologia e Obstetrícia,1778,2026-05-14 17:00:00,4,Quinta,Tarde,17,5,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,9,2,Realizada,0
+262,20,39,Feminino,3,Ortopedia,3931,2026-05-15 13:45:00,4,Sexta,Tarde,13,5,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,2,0,Realizada,0
+263,66,69,Feminino,5,Neurologia,4447,2026-05-15 13:45:00,11,Sexta,Tarde,13,5,Formigamento em membros superiores,Sala 204,350.0,50,350.0,3,0,Realizada,0
+264,43,74,Masculino,4,Pediatria,2308,2026-05-16 09:30:00,7,Sábado,Manhã,9,5,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,0,0,Realizada,0
+265,19,40,Masculino,9,Psiquiatria,5073,2026-05-16 15:45:00,3,Sábado,Tarde,15,5,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,5,0,Realizada,0
+266,7,51,Masculino,1,Cardiologia,3027,2026-05-17 11:15:00,6,Domingo,Manhã,11,5,Avaliação de picos hipertensivos matinais,Sala 101,300.0,40,300.0,8,1,Realizada,0
+267,56,15,Feminino,4,Pediatria,2310,2026-05-18 09:15:00,4,Segunda,Manhã,9,5,Consulta de puericultura,Sala 301,260.0,45,260.0,7,1,Cancelada,1
+268,20,39,Feminino,3,Ortopedia,3934,2026-05-18 17:15:00,0,Segunda,Tarde,17,5,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,3,0,Realizada,0
+269,22,8,Masculino,2,Dermatologia,2562,2026-05-20 13:30:00,5,Quarta,Tarde,13,5,Avaliação de pinta com mudança de cor,Sala 202,250.0,30,250.0,8,8,Cancelada,1
+270,69,43,Masculino,4,Pediatria,2312,2026-05-20 16:30:00,10,Quarta,Tarde,16,5,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,8,0,Realizada,0
+271,51,6,Feminino,12,Clínica Geral,2106,2026-05-21 08:45:00,30,Quinta,Manhã,8,5,Encaminhamento para especialista,Sala 102,200.0,30,200.0,6,0,Realizada,0
+272,56,15,Feminino,7,Endocrinologia,3121,2026-05-21 10:15:00,5,Quinta,Manhã,10,5,Avaliação de alteração na tireoide,Sala 205,310.0,40,310.0,8,2,Cancelada,1
+273,69,43,Masculino,12,Clínica Geral,2106,2026-05-21 16:45:00,5,Quinta,Tarde,16,5,Encaminhamento para especialista,Sala 102,200.0,30,200.0,9,0,Realizada,0
+274,13,45,Masculino,11,Pneumologia,3516,2026-05-22 08:30:00,0,Sexta,Manhã,8,5,Investigação de tosse persistente,Sala 207,280.0,35,280.0,5,1,Realizada,0
+275,20,39,Feminino,8,Oftalmologia,2438,2026-05-22 11:15:00,2,Sexta,Manhã,11,5,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,4,0,Realizada,0
+276,23,63,Masculino,11,Pneumologia,3516,2026-05-22 11:30:00,18,Sexta,Manhã,11,5,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,3,0,Realizada,0
+277,19,40,Masculino,5,Neurologia,4454,2026-05-22 14:15:00,0,Sexta,Tarde,14,5,Dor de cabeça crônica diária,Sala 204,350.0,50,350.0,6,0,Realizada,0
+278,9,36,Masculino,12,Clínica Geral,2107,2026-05-22 16:00:00,26,Sexta,Tarde,16,5,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,5,3,Cancelada,1
+279,52,78,Masculino,8,Oftalmologia,2439,2026-05-23 08:00:00,4,Sábado,Manhã,8,5,Dificuldade para enxergar de longe e vista cansada,Sala 302,270.0,30,270.0,0,0,Realizada,0
+280,47,20,Masculino,6,Ginecologia e Obstetrícia,1787,2026-05-23 16:30:00,0,Sábado,Tarde,16,5,Dor pélvica recorrente,Sala 108,290.0,40,290.0,12,2,Realizada,0
+281,18,58,Feminino,12,Clínica Geral,2109,2026-05-24 17:45:00,5,Domingo,Tarde,17,5,Encaminhamento para especialista,Sala 102,200.0,30,200.0,4,0,Realizada,0
+282,22,8,Masculino,12,Clínica Geral,2110,2026-05-25 14:00:00,8,Segunda,Tarde,14,5,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,9,9,Cancelada,1
+283,68,33,Masculino,2,Dermatologia,2569,2026-05-27 09:30:00,16,Quarta,Manhã,9,5,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,6,0,Realizada,0
+284,24,19,Masculino,4,Pediatria,2319,2026-05-27 10:30:00,11,Quarta,Manhã,10,5,Acompanhamento de crescimento e desenvolvimento,Sala 301,260.0,45,260.0,4,0,Cancelada,1
+285,23,63,Masculino,11,Pneumologia,3521,2026-05-27 14:30:00,6,Quarta,Tarde,14,5,Investigação de tosse persistente,Sala 207,280.0,35,280.0,4,0,Realizada,0
+286,66,69,Feminino,6,Ginecologia e Obstetrícia,1791,2026-05-27 17:30:00,17,Quarta,Tarde,17,5,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,4,0,Realizada,0
+287,18,58,Feminino,7,Endocrinologia,3128,2026-05-28 11:00:00,2,Quinta,Manhã,11,5,Ganho de peso não intencional,Sala 205,310.0,40,310.0,5,0,Realizada,0
+288,31,71,Feminino,9,Psiquiatria,5085,2026-05-28 15:15:00,14,Quinta,Tarde,15,5,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,1,0,Realizada,0
+289,47,20,Masculino,1,Cardiologia,3039,2026-05-29 13:15:00,2,Sexta,Tarde,13,5,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,13,2,Realizada,0
+290,33,12,Feminino,3,Ortopedia,3946,2026-05-30 16:45:00,30,Sábado,Tarde,16,5,Dor no ombro ao levantar peso,Sala 105,280.0,30,280.0,5,0,Cancelada,1
+291,49,50,Masculino,1,Cardiologia,3041,2026-05-31 17:15:00,22,Domingo,Tarde,17,5,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,4,0,Realizada,0
+292,34,75,Feminino,5,Neurologia,4465,2026-06-02 11:45:00,12,Terça,Manhã,11,6,Investigação de distúrbio do sono,Sala 204,350.0,50,350.0,11,1,Realizada,0
+293,17,70,Feminino,6,Ginecologia e Obstetrícia,1797,2026-06-02 13:15:00,28,Terça,Tarde,13,6,Dor pélvica recorrente,Sala 108,290.0,40,290.0,10,2,Realizada,0
+294,34,75,Feminino,4,Pediatria,2325,2026-06-02 17:30:00,1,Terça,Tarde,17,6,Avaliação de calendário vacinal,Sala 301,260.0,45,260.0,12,1,Realizada,0
+295,64,61,Feminino,7,Endocrinologia,3134,2026-06-03 10:30:00,3,Quarta,Manhã,10,6,Ajuste de dose de insulina,Sala 205,310.0,40,310.0,4,0,Realizada,0
+296,19,40,Masculino,7,Endocrinologia,3134,2026-06-03 10:45:00,0,Quarta,Manhã,10,6,Ganho de peso não intencional,Sala 205,310.0,40,310.0,7,0,Realizada,0
+297,54,25,Feminino,8,Oftalmologia,2450,2026-06-03 11:45:00,7,Quarta,Manhã,11,6,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,20,8,Realizada,0
+298,49,50,Masculino,3,Ortopedia,3953,2026-06-06 11:30:00,5,Sábado,Manhã,11,6,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,5,0,Realizada,0
+299,52,78,Masculino,7,Endocrinologia,3137,2026-06-06 14:30:00,0,Sábado,Tarde,14,6,Investigação de fadiga crônica,Sala 205,310.0,40,310.0,1,0,Realizada,0
+300,19,40,Masculino,8,Oftalmologia,2453,2026-06-06 15:45:00,0,Sábado,Tarde,15,6,Olho vermelho e coceira,Sala 302,270.0,30,270.0,8,0,Realizada,0
+301,56,15,Feminino,6,Ginecologia e Obstetrícia,1801,2026-06-06 15:45:00,8,Sábado,Tarde,15,6,Dor pélvica recorrente,Sala 108,290.0,40,290.0,9,3,Cancelada,1
+302,19,40,Masculino,6,Ginecologia e Obstetrícia,1801,2026-06-06 17:00:00,12,Sábado,Tarde,17,6,Dor pélvica recorrente,Sala 108,290.0,40,290.0,9,0,Realizada,0
+303,44,50,Masculino,9,Psiquiatria,5095,2026-06-07 11:45:00,42,Domingo,Manhã,11,6,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,2,0,Cancelada,1
+304,69,43,Masculino,1,Cardiologia,3048,2026-06-07 15:15:00,6,Domingo,Tarde,15,6,Avaliação de picos hipertensivos matinais,Sala 101,300.0,40,300.0,10,0,Realizada,0
+305,55,57,Masculino,11,Pneumologia,3532,2026-06-07 16:30:00,6,Domingo,Tarde,16,6,Acompanhamento de asma,Sala 207,280.0,35,280.0,3,0,Realizada,0
+306,26,48,Masculino,5,Neurologia,4471,2026-06-08 13:00:00,3,Segunda,Tarde,13,6,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,0,0,Realizada,0
+307,54,25,Feminino,7,Endocrinologia,3140,2026-06-09 11:15:00,0,Terça,Manhã,11,6,Ganho de peso não intencional,Sala 205,310.0,40,310.0,21,8,Cancelada,1
+308,70,45,Masculino,11,Pneumologia,3535,2026-06-10 09:30:00,0,Quarta,Manhã,9,6,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,3,0,Realizada,0
+309,58,64,Feminino,1,Cardiologia,3052,2026-06-11 09:30:00,3,Quinta,Manhã,9,6,"Histórico familiar de infarto, avaliação preventiva",Sala 101,300.0,40,300.0,4,1,Realizada,0
+310,50,80,Feminino,3,Ortopedia,3959,2026-06-12 09:15:00,0,Sexta,Manhã,9,6,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,2,1,Realizada,0
+311,7,51,Masculino,6,Ginecologia e Obstetrícia,1807,2026-06-12 15:15:00,4,Sexta,Tarde,15,6,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,9,1,Realizada,0
+312,31,71,Feminino,8,Oftalmologia,2460,2026-06-13 13:30:00,11,Sábado,Tarde,13,6,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,2,0,Realizada,0
+313,13,45,Masculino,12,Clínica Geral,2129,2026-06-13 15:15:00,8,Sábado,Tarde,15,6,Solicitação de exames de rotina,Sala 102,200.0,30,200.0,6,1,Realizada,0
+314,70,45,Masculino,1,Cardiologia,3055,2026-06-14 10:45:00,0,Domingo,Manhã,10,6,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,4,0,Realizada,0
+315,31,71,Feminino,4,Pediatria,2338,2026-06-15 13:00:00,3,Segunda,Tarde,13,6,Tosse persistente e coriza,Sala 301,260.0,45,260.0,3,0,Realizada,0
+316,35,41,Feminino,10,Gastroenterologia,1527,2026-06-15 14:00:00,2,Segunda,Tarde,14,6,Alteração no hábito intestinal,Sala 106,290.0,35,290.0,9,0,Cancelada,1
+317,45,40,Masculino,3,Ortopedia,3962,2026-06-15 16:15:00,2,Segunda,Tarde,16,6,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,0,0,Realizada,0
+318,20,39,Feminino,8,Oftalmologia,2463,2026-06-16 14:45:00,7,Terça,Tarde,14,6,Dificuldade para enxergar de longe e vista cansada,Sala 302,270.0,30,270.0,5,0,Cancelada,1
+319,35,41,Feminino,8,Oftalmologia,2464,2026-06-17 10:00:00,8,Quarta,Manhã,10,6,Visão embaçada de início recente,Sala 302,270.0,30,270.0,10,1,Realizada,0
+320,28,67,Feminino,3,Ortopedia,3964,2026-06-17 10:15:00,20,Quarta,Manhã,10,6,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,1,0,Realizada,0
+321,35,41,Feminino,8,Oftalmologia,2465,2026-06-18 10:30:00,8,Quinta,Manhã,10,6,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,11,1,Realizada,0
+322,69,43,Masculino,7,Endocrinologia,3150,2026-06-19 15:15:00,9,Sexta,Tarde,15,6,Ganho de peso não intencional,Sala 205,310.0,40,310.0,11,0,Realizada,0
+323,17,70,Feminino,8,Oftalmologia,2467,2026-06-20 08:30:00,22,Sábado,Manhã,8,6,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,11,2,Realizada,0
+324,58,64,Feminino,1,Cardiologia,3061,2026-06-20 10:30:00,0,Sábado,Manhã,10,6,Avaliação de picos hipertensivos matinais,Sala 101,300.0,40,300.0,5,1,Realizada,0
+325,69,43,Masculino,3,Ortopedia,3968,2026-06-21 08:30:00,19,Domingo,Manhã,8,6,Dor no ombro ao levantar peso,Sala 105,280.0,30,280.0,12,0,Realizada,0
+326,52,78,Masculino,7,Endocrinologia,3152,2026-06-21 17:45:00,14,Domingo,Tarde,17,6,Investigação de fadiga crônica,Sala 205,310.0,40,310.0,2,0,Realizada,0
+327,22,8,Masculino,5,Neurologia,4485,2026-06-22 11:30:00,8,Segunda,Manhã,11,6,Dor de cabeça crônica diária,Sala 204,350.0,50,350.0,10,10,Cancelada,1
+328,24,19,Masculino,3,Ortopedia,3969,2026-06-22 11:45:00,9,Segunda,Manhã,11,6,Dor no ombro ao levantar peso,Sala 105,280.0,30,280.0,5,1,Realizada,0
+329,30,65,Feminino,7,Endocrinologia,3153,2026-06-22 15:15:00,41,Segunda,Tarde,15,6,Avaliação de alteração na tireoide,Sala 205,310.0,40,310.0,3,0,Realizada,0
+330,54,25,Feminino,11,Pneumologia,3547,2026-06-22 17:45:00,0,Segunda,Tarde,17,6,Chiado no peito recorrente,Sala 207,280.0,35,280.0,22,9,Realizada,0
+331,48,9,Masculino,3,Ortopedia,3970,2026-06-23 08:15:00,1,Terça,Manhã,8,6,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,5,2,Realizada,0
+332,23,63,Masculino,5,Neurologia,4486,2026-06-23 13:15:00,9,Terça,Tarde,13,6,Investigação de distúrbio do sono,Sala 204,350.0,50,350.0,5,0,Realizada,0
+333,44,50,Masculino,9,Psiquiatria,5111,2026-06-23 14:30:00,24,Terça,Tarde,14,6,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,3,1,Cancelada,1
+334,69,43,Masculino,3,Ortopedia,3970,2026-06-23 16:45:00,20,Terça,Tarde,16,6,Dor intensa no joelho direito pós-corrida,Sala 105,280.0,30,280.0,13,0,Cancelada,1
+335,17,70,Feminino,9,Psiquiatria,5111,2026-06-23 17:45:00,9,Terça,Tarde,17,6,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,12,2,Cancelada,1
+336,70,45,Masculino,10,Gastroenterologia,1536,2026-06-24 10:15:00,3,Quarta,Manhã,10,6,Dor abdominal recorrente,Sala 106,290.0,35,290.0,5,0,Realizada,0
+337,38,17,Masculino,2,Dermatologia,2597,2026-06-24 16:45:00,13,Quarta,Tarde,16,6,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,7,3,Cancelada,1
+338,24,19,Masculino,1,Cardiologia,3066,2026-06-25 10:00:00,40,Quinta,Manhã,10,6,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,6,1,Cancelada,1
+339,68,33,Masculino,3,Ortopedia,3973,2026-06-26 08:00:00,3,Sexta,Manhã,8,6,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,7,0,Realizada,0
+340,54,25,Feminino,3,Ortopedia,3973,2026-06-26 10:30:00,15,Sexta,Manhã,10,6,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,23,9,Realizada,0
+341,38,17,Masculino,8,Oftalmologia,2474,2026-06-27 14:45:00,10,Sábado,Tarde,14,6,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,8,4,Realizada,0
+342,47,20,Masculino,3,Ortopedia,3974,2026-06-27 16:15:00,43,Sábado,Tarde,16,6,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,14,2,Realizada,0
+343,54,25,Feminino,7,Endocrinologia,3158,2026-06-27 16:45:00,0,Sábado,Tarde,16,6,Ganho de peso não intencional,Sala 205,310.0,40,310.0,24,9,Realizada,0
+344,38,17,Masculino,11,Pneumologia,3553,2026-06-28 14:30:00,14,Domingo,Tarde,14,6,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,9,4,Realizada,0
+345,7,51,Masculino,9,Psiquiatria,5117,2026-06-29 13:45:00,8,Segunda,Tarde,13,6,Dificuldade de concentração e sono,Sala 210,320.0,50,320.0,10,1,Cancelada,1
+346,60,6,Masculino,9,Psiquiatria,5117,2026-06-29 15:45:00,5,Segunda,Tarde,15,6,Episódios de tristeza persistente,Sala 210,320.0,50,320.0,5,1,Realizada,0
+347,5,66,Masculino,5,Neurologia,4492,2026-06-29 16:15:00,3,Segunda,Tarde,16,6,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,3,0,Realizada,0
+348,69,43,Masculino,12,Clínica Geral,2145,2026-06-29 17:45:00,7,Segunda,Tarde,17,6,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,14,1,Realizada,0
+349,54,25,Feminino,1,Cardiologia,3071,2026-06-30 08:45:00,23,Terça,Manhã,8,6,Retorno de rotina cardiológica,Sala 101,300.0,40,300.0,25,9,Realizada,0
+350,37,34,Feminino,4,Pediatria,2353,2026-06-30 15:15:00,22,Terça,Tarde,15,6,Avaliação de calendário vacinal,Sala 301,260.0,45,260.0,2,0,Realizada,0
+351,60,6,Masculino,8,Oftalmologia,2478,2026-07-01 08:45:00,17,Quarta,Manhã,8,7,Sensibilidade excessiva à luz,Sala 302,270.0,30,270.0,6,1,Cancelada,1
+352,52,78,Masculino,2,Dermatologia,2604,2026-07-01 11:45:00,0,Quarta,Manhã,11,7,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,3,0,Realizada,0
+353,19,40,Masculino,2,Dermatologia,2605,2026-07-02 14:45:00,10,Quinta,Tarde,14,7,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,10,0,Realizada,0
+354,19,40,Masculino,4,Pediatria,2356,2026-07-03 08:45:00,9,Sexta,Manhã,8,7,Avaliação de calendário vacinal,Sala 301,260.0,45,260.0,11,0,Realizada,0
+355,48,9,Masculino,11,Pneumologia,3558,2026-07-03 14:00:00,8,Sexta,Tarde,14,7,Acompanhamento de asma,Sala 207,280.0,35,280.0,6,2,Realizada,0
+356,43,75,Masculino,3,Ortopedia,3980,2026-07-03 17:15:00,9,Sexta,Tarde,17,7,Dor intensa no joelho direito pós-corrida,Sala 105,280.0,30,280.0,1,0,Cancelada,1
+357,38,17,Masculino,9,Psiquiatria,5122,2026-07-04 08:00:00,11,Sábado,Manhã,8,7,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,10,4,Realizada,0
+358,37,34,Feminino,1,Cardiologia,3075,2026-07-04 11:30:00,7,Sábado,Manhã,11,7,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,3,0,Realizada,0
+359,19,40,Masculino,5,Neurologia,4497,2026-07-04 14:45:00,21,Sábado,Tarde,14,7,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,12,0,Realizada,0
+360,38,17,Masculino,7,Endocrinologia,3165,2026-07-04 17:45:00,9,Sábado,Tarde,17,7,Ajuste de dose de insulina,Sala 205,310.0,40,310.0,11,4,Cancelada,1
+361,49,50,Masculino,3,Ortopedia,3982,2026-07-05 14:15:00,19,Domingo,Tarde,14,7,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,6,0,Realizada,0
+362,35,41,Feminino,5,Neurologia,4498,2026-07-05 15:45:00,28,Domingo,Tarde,15,7,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,12,1,Realizada,0
+363,55,57,Masculino,1,Cardiologia,3076,2026-07-05 17:30:00,14,Domingo,Tarde,17,7,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,4,0,Realizada,0
+364,47,20,Masculino,2,Dermatologia,2609,2026-07-06 08:30:00,6,Segunda,Manhã,8,7,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,15,2,Cancelada,1
+365,54,25,Feminino,2,Dermatologia,2609,2026-07-06 08:45:00,5,Segunda,Manhã,8,7,Acne persistente em tratamento,Sala 202,250.0,30,250.0,26,9,Realizada,0
+366,6,27,Feminino,5,Neurologia,4500,2026-07-07 17:15:00,27,Terça,Tarde,17,7,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,1,0,Realizada,0
+367,45,40,Masculino,6,Ginecologia e Obstetrícia,1832,2026-07-07 17:30:00,7,Terça,Tarde,17,7,Exame preventivo anual e cólicas,Sala 108,290.0,40,290.0,1,0,Cancelada,1
+368,27,88,Feminino,3,Ortopedia,3986,2026-07-09 10:30:00,15,Quinta,Manhã,10,7,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,12,2,Cancelada,1
+369,64,61,Feminino,6,Ginecologia e Obstetrícia,1834,2026-07-09 13:00:00,6,Quinta,Tarde,13,7,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,5,0,Realizada,0
+370,21,78,Feminino,8,Oftalmologia,2486,2026-07-09 13:30:00,6,Quinta,Tarde,13,7,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,5,2,Realizada,0
+371,30,65,Feminino,7,Endocrinologia,3170,2026-07-09 17:45:00,0,Quinta,Tarde,17,7,Ajuste de dose de insulina,Sala 205,310.0,40,310.0,4,0,Realizada,0
+372,64,61,Feminino,8,Oftalmologia,2487,2026-07-10 11:15:00,1,Sexta,Manhã,11,7,Visão embaçada de início recente,Sala 302,270.0,30,270.0,6,0,Realizada,0
+373,51,6,Feminino,2,Dermatologia,2613,2026-07-10 14:00:00,1,Sexta,Tarde,14,7,Avaliação de pinta com mudança de cor,Sala 202,250.0,30,250.0,7,0,Realizada,0
+374,40,71,Feminino,5,Neurologia,4505,2026-07-12 10:45:00,0,Domingo,Manhã,10,7,Investigação de distúrbio do sono,Sala 204,350.0,50,350.0,1,0,Realizada,0
+375,17,70,Feminino,10,Gastroenterologia,1554,2026-07-12 16:30:00,7,Domingo,Tarde,16,7,Dor abdominal recorrente,Sala 106,290.0,35,290.0,13,3,Realizada,0
+376,44,50,Masculino,10,Gastroenterologia,1555,2026-07-13 10:45:00,24,Segunda,Manhã,10,7,Investigação de gastrite crônica,Sala 106,290.0,35,290.0,4,2,Cancelada,1
+377,31,71,Feminino,9,Psiquiatria,5132,2026-07-14 11:15:00,3,Terça,Manhã,11,7,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,4,0,Realizada,0
+378,69,43,Masculino,12,Clínica Geral,2160,2026-07-14 15:45:00,10,Terça,Tarde,15,7,Mal-estar geral inespecífico,Sala 102,200.0,30,200.0,15,1,Realizada,0
+379,47,20,Masculino,4,Pediatria,2367,2026-07-14 17:00:00,14,Terça,Tarde,17,7,Consulta de puericultura,Sala 301,260.0,45,260.0,16,3,Realizada,0
+380,58,64,Feminino,7,Endocrinologia,3175,2026-07-14 17:15:00,3,Terça,Tarde,17,7,Ganho de peso não intencional,Sala 205,310.0,40,310.0,6,1,Realizada,0
+381,62,41,Masculino,8,Oftalmologia,2492,2026-07-15 08:15:00,10,Quarta,Manhã,8,7,Sensibilidade excessiva à luz,Sala 302,270.0,30,270.0,3,1,Cancelada,1
+382,54,25,Feminino,8,Oftalmologia,2492,2026-07-15 09:30:00,3,Quarta,Manhã,9,7,Visão embaçada de início recente,Sala 302,270.0,30,270.0,27,9,Realizada,0
+383,60,7,Masculino,6,Ginecologia e Obstetrícia,1841,2026-07-16 15:00:00,14,Quinta,Tarde,15,7,Exame preventivo anual e cólicas,Sala 108,290.0,40,290.0,7,2,Realizada,0
+384,69,43,Masculino,2,Dermatologia,2619,2026-07-16 15:15:00,5,Quinta,Tarde,15,7,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,16,1,Realizada,0
+385,24,19,Masculino,9,Psiquiatria,5134,2026-07-16 15:30:00,4,Quinta,Tarde,15,7,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,7,2,Realizada,0
+386,54,25,Feminino,11,Pneumologia,3572,2026-07-17 09:30:00,6,Sexta,Manhã,9,7,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,28,9,Realizada,0
+387,4,11,Feminino,2,Dermatologia,2620,2026-07-17 14:45:00,3,Sexta,Tarde,14,7,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,5,5,Realizada,0
+388,54,25,Feminino,11,Pneumologia,3572,2026-07-17 16:15:00,8,Sexta,Tarde,16,7,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,29,9,Realizada,0
+389,60,7,Masculino,3,Ortopedia,3995,2026-07-18 13:30:00,18,Sábado,Tarde,13,7,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,8,2,Realizada,0
+390,17,70,Feminino,2,Dermatologia,2621,2026-07-18 13:30:00,0,Sábado,Tarde,13,7,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,14,3,Realizada,0
+391,53,75,Masculino,4,Pediatria,2372,2026-07-19 10:00:00,11,Domingo,Manhã,10,7,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,0,0,Realizada,0
+392,54,25,Feminino,4,Pediatria,2372,2026-07-19 11:30:00,7,Domingo,Manhã,11,7,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,30,9,Cancelada,1
+393,43,75,Masculino,9,Psiquiatria,5137,2026-07-19 11:30:00,0,Domingo,Manhã,11,7,Dificuldade de concentração e sono,Sala 210,320.0,50,320.0,2,1,Realizada,0
+394,14,56,Feminino,9,Psiquiatria,5137,2026-07-19 15:00:00,19,Domingo,Tarde,15,7,Retorno para ajuste de medicação,Sala 210,320.0,50,320.0,2,0,Realizada,0
+395,19,40,Masculino,4,Pediatria,2373,2026-07-20 15:45:00,30,Segunda,Tarde,15,7,Tosse persistente e coriza,Sala 301,260.0,45,260.0,13,0,Realizada,0
+396,51,6,Feminino,8,Oftalmologia,2498,2026-07-21 09:00:00,10,Terça,Manhã,9,7,Sensibilidade excessiva à luz,Sala 302,270.0,30,270.0,8,0,Realizada,0
+397,43,75,Masculino,5,Neurologia,4514,2026-07-21 17:00:00,9,Terça,Tarde,17,7,Avaliação de crises de esquecimento,Sala 204,350.0,50,350.0,3,1,Realizada,0
+398,55,57,Masculino,1,Cardiologia,3093,2026-07-22 10:00:00,10,Quarta,Manhã,10,7,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,5,0,Realizada,0
+399,19,40,Masculino,11,Pneumologia,3577,2026-07-22 10:30:00,35,Quarta,Manhã,10,7,Falta de ar aos esforços leves,Sala 207,280.0,35,280.0,14,0,Realizada,0
+400,49,50,Masculino,10,Gastroenterologia,1564,2026-07-22 17:00:00,5,Quarta,Tarde,17,7,Dor abdominal recorrente,Sala 106,290.0,35,290.0,7,0,Realizada,0
+401,47,21,Masculino,2,Dermatologia,2626,2026-07-23 09:45:00,2,Quinta,Manhã,9,7,Ressecamento e descamação na pele,Sala 202,250.0,30,250.0,17,3,Cancelada,1
+402,61,88,Feminino,6,Ginecologia e Obstetrícia,1849,2026-07-24 10:45:00,2,Sexta,Manhã,10,7,Exame preventivo anual e cólicas,Sala 108,290.0,40,290.0,4,0,Realizada,0
+403,56,15,Feminino,1,Cardiologia,3095,2026-07-24 13:00:00,1,Sexta,Tarde,13,7,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,10,4,Realizada,0
+404,20,39,Feminino,11,Pneumologia,3579,2026-07-24 14:00:00,7,Sexta,Tarde,14,7,Chiado no peito recorrente,Sala 207,280.0,35,280.0,6,1,Realizada,0
+405,18,59,Feminino,4,Pediatria,2377,2026-07-24 17:15:00,3,Sexta,Tarde,17,7,Avaliação de calendário vacinal,Sala 301,260.0,45,260.0,6,0,Realizada,0
+406,54,25,Feminino,7,Endocrinologia,3186,2026-07-25 10:15:00,13,Sábado,Manhã,10,7,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,31,10,Realizada,0
+407,25,9,Masculino,3,Ortopedia,4002,2026-07-25 17:15:00,9,Sábado,Tarde,17,7,Acompanhamento pós-cirúrgico de fratura,Sala 105,280.0,30,280.0,3,1,Cancelada,1
+408,9,37,Masculino,9,Psiquiatria,5144,2026-07-26 11:15:00,5,Domingo,Manhã,11,7,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,6,4,Realizada,0
+409,5,66,Masculino,4,Pediatria,2380,2026-07-27 09:15:00,3,Segunda,Manhã,9,7,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,4,0,Realizada,0
+410,31,71,Feminino,5,Neurologia,4522,2026-07-29 08:15:00,2,Quarta,Manhã,8,7,Dor de cabeça crônica diária,Sala 204,350.0,50,350.0,5,0,Realizada,0
+411,47,21,Masculino,12,Clínica Geral,2175,2026-07-29 13:30:00,9,Quarta,Tarde,13,7,Encaminhamento para especialista,Sala 102,200.0,30,200.0,18,4,Realizada,0
+412,41,58,Masculino,1,Cardiologia,3100,2026-07-29 14:30:00,16,Quarta,Tarde,14,7,Alteração em exame de colesterol,Sala 101,300.0,40,300.0,1,0,Realizada,0
+413,17,70,Feminino,3,Ortopedia,4007,2026-07-30 08:15:00,0,Quinta,Manhã,8,7,Dor no ombro ao levantar peso,Sala 105,280.0,30,280.0,15,3,Realizada,0
+414,54,25,Feminino,4,Pediatria,2383,2026-07-30 14:15:00,32,Quinta,Tarde,14,7,Avaliação de calendário vacinal,Sala 301,260.0,45,260.0,32,10,Realizada,0
+415,70,45,Masculino,4,Pediatria,2384,2026-07-31 08:15:00,1,Sexta,Manhã,8,7,Acompanhamento de crescimento e desenvolvimento,Sala 301,260.0,45,260.0,6,0,Realizada,0
+416,32,47,Masculino,12,Clínica Geral,2177,2026-07-31 08:15:00,46,Sexta,Manhã,8,7,Avaliação inicial de sintomas variados,Sala 102,200.0,30,200.0,3,0,Realizada,0
+417,34,76,Feminino,3,Ortopedia,4008,2026-07-31 15:00:00,26,Sexta,Tarde,15,7,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,13,1,Cancelada,1
+418,1,58,Masculino,1,Cardiologia,3103,2026-08-01 08:30:00,12,Sábado,Manhã,8,8,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,1,0,Realizada,0
+419,2,31,Feminino,2,Dermatologia,2635,2026-08-01 09:15:00,5,Sábado,Manhã,9,8,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,0,0,Realizada,0
+420,19,40,Masculino,5,Neurologia,4525,2026-08-01 15:30:00,0,Sábado,Tarde,15,8,Formigamento em membros superiores,Sala 204,350.0,50,350.0,15,0,Realizada,0
+421,3,43,Masculino,3,Ortopedia,4010,2026-08-02 10:00:00,8,Domingo,Manhã,10,8,Dor intensa no joelho direito pós-corrida,Sala 105,280.0,30,280.0,1,0,Realizada,0
+422,51,6,Feminino,4,Pediatria,2386,2026-08-02 10:45:00,12,Domingo,Manhã,10,8,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,9,0,Cancelada,1
+423,12,8,Feminino,12,Clínica Geral,2179,2026-08-02 15:15:00,1,Domingo,Tarde,15,8,Mal-estar geral inespecífico,Sala 102,200.0,30,200.0,2,0,Realizada,0
+424,4,11,Feminino,4,Pediatria,2387,2026-08-03 14:00:00,5,Segunda,Tarde,14,8,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,6,5,Realizada,0
+425,10,32,Feminino,9,Psiquiatria,5152,2026-08-03 15:45:00,4,Segunda,Tarde,15,8,Dificuldade de concentração e sono,Sala 210,320.0,50,320.0,8,0,Realizada,0
+426,27,88,Feminino,12,Clínica Geral,2181,2026-08-04 08:00:00,0,Terça,Manhã,8,8,Avaliação inicial de sintomas variados,Sala 102,200.0,30,200.0,13,3,Realizada,0
+427,59,32,Masculino,10,Gastroenterologia,1577,2026-08-04 09:15:00,7,Terça,Manhã,9,8,Alteração no hábito intestinal,Sala 106,290.0,35,290.0,1,1,Cancelada,1
+428,5,66,Masculino,5,Neurologia,4528,2026-08-04 15:30:00,2,Terça,Tarde,15,8,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,5,0,Realizada,0
+429,6,27,Feminino,6,Ginecologia e Obstetrícia,1861,2026-08-05 08:00:00,10,Quarta,Manhã,8,8,Exame preventivo anual e cólicas,Sala 108,290.0,40,290.0,2,0,Realizada,0
+430,13,45,Masculino,1,Cardiologia,3107,2026-08-05 08:45:00,11,Quarta,Manhã,8,8,Retorno de rotina cardiológica,Sala 101,300.0,40,300.0,7,1,Realizada,0
+431,33,12,Feminino,1,Cardiologia,3107,2026-08-05 11:30:00,1,Quarta,Manhã,11,8,Avaliação de picos hipertensivos matinais,Sala 101,300.0,40,300.0,6,1,Realizada,0
+432,7,51,Masculino,7,Endocrinologia,3198,2026-08-06 11:00:00,10,Quinta,Manhã,11,8,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,11,2,Realizada,0
+433,54,25,Feminino,8,Oftalmologia,2514,2026-08-06 13:30:00,43,Quinta,Tarde,13,8,Visão embaçada de início recente,Sala 302,270.0,30,270.0,33,10,Cancelada,1
+434,55,57,Masculino,5,Neurologia,4531,2026-08-07 10:00:00,11,Sexta,Manhã,10,8,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,6,0,Realizada,0
+435,22,8,Masculino,8,Oftalmologia,2515,2026-08-07 10:45:00,3,Sexta,Manhã,10,8,Visão embaçada de início recente,Sala 302,270.0,30,270.0,11,11,Cancelada,1
+436,8,22,Feminino,8,Oftalmologia,2515,2026-08-07 16:00:00,2,Sexta,Tarde,16,8,Dificuldade para enxergar de longe e vista cansada,Sala 302,270.0,30,270.0,1,0,Realizada,0
+437,19,40,Masculino,2,Dermatologia,2642,2026-08-08 10:30:00,0,Sábado,Manhã,10,8,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,16,0,Realizada,0
+438,23,63,Masculino,11,Pneumologia,3594,2026-08-08 10:30:00,12,Sábado,Manhã,10,8,Falta de ar aos esforços leves,Sala 207,280.0,35,280.0,6,0,Realizada,0
+439,9,37,Masculino,9,Psiquiatria,5157,2026-08-08 13:30:00,4,Sábado,Tarde,13,8,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,7,4,Realizada,0
+440,30,65,Feminino,9,Psiquiatria,5158,2026-08-09 09:15:00,3,Domingo,Manhã,9,8,Dificuldade de concentração e sono,Sala 210,320.0,50,320.0,5,0,Realizada,0
+441,20,39,Feminino,3,Ortopedia,4017,2026-08-09 15:00:00,16,Domingo,Tarde,15,8,Dor crônica na coluna lombar,Sala 105,280.0,30,280.0,7,1,Realizada,0
+442,68,33,Masculino,9,Psiquiatria,5158,2026-08-09 16:15:00,6,Domingo,Tarde,16,8,Avaliação inicial de sintomas depressivos,Sala 210,320.0,50,320.0,8,0,Cancelada,1
+443,10,32,Feminino,10,Gastroenterologia,1583,2026-08-10 09:00:00,4,Segunda,Manhã,9,8,Refluxo gastroesofágico e azia pós-refeições,Sala 106,290.0,35,290.0,9,0,Realizada,0
+444,34,76,Feminino,6,Ginecologia e Obstetrícia,1866,2026-08-10 09:15:00,13,Segunda,Manhã,9,8,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,14,2,Realizada,0
+445,52,78,Masculino,7,Endocrinologia,3202,2026-08-10 09:45:00,0,Segunda,Manhã,9,8,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,4,0,Cancelada,1
+446,31,71,Feminino,5,Neurologia,4534,2026-08-10 14:30:00,4,Segunda,Tarde,14,8,Dor de cabeça crônica diária,Sala 204,350.0,50,350.0,6,0,Realizada,0
+447,4,11,Feminino,6,Ginecologia e Obstetrícia,1866,2026-08-10 15:15:00,5,Segunda,Tarde,15,8,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,7,5,Cancelada,1
+448,22,8,Masculino,6,Ginecologia e Obstetrícia,1866,2026-08-10 15:45:00,2,Segunda,Tarde,15,8,Avaliação para reposição hormonal,Sala 108,290.0,40,290.0,12,12,Cancelada,1
+449,11,64,Masculino,11,Pneumologia,3597,2026-08-11 10:30:00,10,Terça,Manhã,10,8,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,2,0,Realizada,0
+450,35,41,Feminino,6,Ginecologia e Obstetrícia,1867,2026-08-11 17:00:00,2,Terça,Tarde,17,8,Dor pélvica recorrente,Sala 108,290.0,40,290.0,13,1,Realizada,0
+451,12,8,Feminino,12,Clínica Geral,2189,2026-08-12 14:30:00,11,Quarta,Tarde,14,8,Check-up geral de rotina e fadiga,Sala 102,200.0,30,200.0,3,0,Realizada,0
+452,7,51,Masculino,5,Neurologia,4537,2026-08-13 08:00:00,6,Quinta,Manhã,8,8,Episódios frequentes de enxaqueca com aura,Sala 204,350.0,50,350.0,12,2,Cancelada,1
+453,37,34,Feminino,10,Gastroenterologia,1586,2026-08-13 10:00:00,23,Quinta,Manhã,10,8,Investigação de gastrite crônica,Sala 106,290.0,35,290.0,4,0,Realizada,0
+454,13,45,Masculino,1,Cardiologia,3115,2026-08-13 11:15:00,11,Quinta,Manhã,11,8,Avaliação de picos hipertensivos matinais,Sala 101,300.0,40,300.0,8,1,Realizada,0
+455,48,9,Masculino,9,Psiquiatria,5162,2026-08-13 13:45:00,8,Quinta,Tarde,13,8,Crises de pânico recorrentes,Sala 210,320.0,50,320.0,7,2,Cancelada,1
+456,4,11,Feminino,7,Endocrinologia,3206,2026-08-14 10:45:00,12,Sexta,Manhã,10,8,Ajuste de dose de insulina,Sala 205,310.0,40,310.0,8,6,Cancelada,1
+457,58,64,Feminino,11,Pneumologia,3600,2026-08-14 11:15:00,13,Sexta,Manhã,11,8,Avaliação para exame de função pulmonar,Sala 207,280.0,35,280.0,7,1,Realizada,0
+458,3,43,Masculino,8,Oftalmologia,2522,2026-08-14 15:45:00,0,Sexta,Tarde,15,8,Dificuldade para enxergar de longe e vista cansada,Sala 302,270.0,30,270.0,2,0,Realizada,0
+459,14,56,Feminino,2,Dermatologia,2648,2026-08-14 16:20:00,14,Sexta,Tarde,16,8,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,3,0,Realizada,0
+460,38,17,Masculino,12,Clínica Geral,2191,2026-08-14 16:45:00,4,Sexta,Tarde,16,8,Avaliação inicial de sintomas variados,Sala 102,200.0,30,200.0,12,5,Realizada,0
+461,15,25,Masculino,3,Ortopedia,4023,2026-08-15 09:40:00,11,Sábado,Manhã,9,8,Lombalgia súbita com irradiação,Sala 105,280.0,30,280.0,0,0,Cancelada,1
+462,49,50,Masculino,6,Ginecologia e Obstetrícia,1871,2026-08-15 15:15:00,3,Sábado,Tarde,15,8,Avaliação para reposição hormonal,Sala 108,290.0,40,290.0,8,0,Realizada,0
+463,17,70,Feminino,1,Cardiologia,3117,2026-08-15 17:00:00,10,Sábado,Tarde,17,8,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,16,3,Realizada,0
+464,20,39,Feminino,4,Pediatria,2400,2026-08-16 08:45:00,3,Domingo,Manhã,8,8,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,8,1,Cancelada,1
+465,16,9,Masculino,4,Pediatria,2400,2026-08-16 13:15:00,2,Domingo,Tarde,13,8,Consulta de rotina pediátrica e febre,Sala 301,260.0,45,260.0,3,1,Realizada,0
+466,19,40,Masculino,6,Ginecologia e Obstetrícia,1873,2026-08-17 10:15:00,8,Segunda,Manhã,10,8,Avaliação para reposição hormonal,Sala 108,290.0,40,290.0,17,0,Realizada,0
+467,35,41,Feminino,8,Oftalmologia,2525,2026-08-17 13:15:00,2,Segunda,Tarde,13,8,Visão embaçada de início recente,Sala 302,270.0,30,270.0,14,1,Realizada,0
+468,5,66,Masculino,1,Cardiologia,3120,2026-08-18 08:15:00,11,Terça,Manhã,8,8,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,6,0,Realizada,0
+469,58,64,Feminino,12,Clínica Geral,2196,2026-08-19 14:00:00,3,Quarta,Tarde,14,8,Encaminhamento para especialista,Sala 102,200.0,30,200.0,8,1,Realizada,0
+470,56,15,Feminino,6,Ginecologia e Obstetrícia,1876,2026-08-20 10:15:00,4,Quinta,Manhã,10,8,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,11,4,Realizada,0
+471,70,45,Masculino,1,Cardiologia,3122,2026-08-20 14:00:00,9,Quinta,Tarde,14,8,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,7,0,Realizada,0
+472,5,66,Masculino,7,Endocrinologia,3212,2026-08-20 15:00:00,1,Quinta,Tarde,15,8,Acompanhamento de obesidade,Sala 205,310.0,40,310.0,7,0,Realizada,0
+473,51,6,Feminino,5,Neurologia,4544,2026-08-20 15:15:00,7,Quinta,Tarde,15,8,Dor de cabeça crônica diária,Sala 204,350.0,50,350.0,10,1,Realizada,0
+474,54,25,Feminino,2,Dermatologia,2656,2026-08-22 08:15:00,3,Sábado,Manhã,8,8,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,34,11,Realizada,0
+475,15,25,Masculino,1,Cardiologia,3124,2026-08-22 09:15:00,10,Sábado,Manhã,9,8,"Histórico familiar de infarto, avaliação preventiva",Sala 101,300.0,40,300.0,1,1,Realizada,0
+476,54,25,Feminino,1,Cardiologia,3124,2026-08-22 09:15:00,6,Sábado,Manhã,9,8,Falta de ar aos esforços moderados,Sala 101,300.0,40,300.0,35,11,Cancelada,1
+477,9,37,Masculino,5,Neurologia,4546,2026-08-22 10:15:00,1,Sábado,Manhã,10,8,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,8,4,Realizada,0
+478,22,8,Masculino,10,Gastroenterologia,1595,2026-08-22 15:30:00,5,Sábado,Tarde,15,8,Avaliação para endoscopia,Sala 106,290.0,35,290.0,13,13,Cancelada,1
+479,52,78,Masculino,6,Ginecologia e Obstetrícia,1880,2026-08-24 10:15:00,1,Segunda,Manhã,10,8,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,5,1,Realizada,0
+480,68,33,Masculino,2,Dermatologia,2658,2026-08-24 11:00:00,3,Segunda,Manhã,11,8,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,9,1,Cancelada,1
+481,58,64,Feminino,11,Pneumologia,3610,2026-08-24 14:45:00,24,Segunda,Tarde,14,8,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,9,1,Realizada,0
+482,61,88,Feminino,6,Ginecologia e Obstetrícia,1880,2026-08-24 17:45:00,3,Segunda,Tarde,17,8,Consulta de planejamento familiar,Sala 108,290.0,40,290.0,5,0,Realizada,0
+483,54,25,Feminino,7,Endocrinologia,3217,2026-08-25 10:15:00,3,Terça,Manhã,10,8,Investigação de fadiga crônica,Sala 205,310.0,40,310.0,36,12,Realizada,0
+484,69,43,Masculino,11,Pneumologia,3611,2026-08-25 11:45:00,1,Terça,Manhã,11,8,Acompanhamento de asma,Sala 207,280.0,35,280.0,17,1,Realizada,0
+485,54,25,Feminino,3,Ortopedia,4033,2026-08-25 15:30:00,0,Terça,Tarde,15,8,Torção de tornozelo em atividade física,Sala 105,280.0,30,280.0,37,12,Realizada,0
+486,20,39,Feminino,7,Endocrinologia,3218,2026-08-26 13:15:00,10,Quarta,Tarde,13,8,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,9,2,Realizada,0
+487,24,19,Masculino,7,Endocrinologia,3219,2026-08-27 09:00:00,21,Quinta,Manhã,9,8,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,8,2,Cancelada,1
+488,69,43,Masculino,11,Pneumologia,3613,2026-08-27 14:00:00,6,Quinta,Tarde,14,8,Falta de ar noturna e tosse seca crônica,Sala 207,280.0,35,280.0,18,1,Realizada,0
+489,4,11,Feminino,12,Clínica Geral,2204,2026-08-27 17:15:00,8,Quinta,Tarde,17,8,Renovação de receita contínua,Sala 102,200.0,30,200.0,9,7,Realizada,0
+490,47,21,Masculino,4,Pediatria,2412,2026-08-28 08:45:00,17,Sexta,Manhã,8,8,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,19,4,Cancelada,1
+491,54,25,Feminino,6,Ginecologia e Obstetrícia,1884,2026-08-28 13:30:00,31,Sexta,Tarde,13,8,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,38,12,Cancelada,1
+492,69,43,Masculino,2,Dermatologia,2662,2026-08-28 13:45:00,4,Sexta,Tarde,13,8,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,19,1,Realizada,0
+493,68,33,Masculino,6,Ginecologia e Obstetrícia,1884,2026-08-28 14:30:00,4,Sexta,Tarde,14,8,Irregularidade no ciclo menstrual,Sala 108,290.0,40,290.0,10,2,Cancelada,1
+494,45,40,Masculino,3,Ortopedia,4036,2026-08-28 16:00:00,0,Sexta,Tarde,16,8,Dor no ombro ao levantar peso,Sala 105,280.0,30,280.0,2,1,Realizada,0
+495,70,45,Masculino,9,Psiquiatria,5178,2026-08-29 08:30:00,0,Sábado,Manhã,8,8,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,8,0,Realizada,0
+496,1,58,Masculino,1,Cardiologia,3132,2026-08-30 08:00:00,5,Domingo,Manhã,8,8,Retorno de rotina cardiológica,Sala 101,300.0,40,300.0,2,0,Agendada,
+497,22,8,Masculino,1,Cardiologia,3132,2026-08-30 08:45:00,5,Domingo,Manhã,8,8,"Histórico familiar de infarto, avaliação preventiva",Sala 101,300.0,40,300.0,14,14,Agendada,
+498,2,31,Feminino,2,Dermatologia,2664,2026-08-30 10:00:00,2,Domingo,Manhã,10,8,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,1,0,Agendada,
+499,9,37,Masculino,11,Pneumologia,3616,2026-08-30 16:00:00,18,Domingo,Tarde,16,8,Chiado no peito recorrente,Sala 207,280.0,35,280.0,9,4,Agendada,
+500,64,62,Feminino,12,Clínica Geral,2210,2026-09-02 08:00:00,10,Quarta,Manhã,8,9,Renovação de receita contínua,Sala 102,200.0,30,200.0,7,0,Agendada,
+501,52,78,Masculino,12,Clínica Geral,2210,2026-09-02 10:15:00,0,Quarta,Manhã,10,9,Encaminhamento para especialista,Sala 102,200.0,30,200.0,6,1,Agendada,
+502,7,51,Masculino,4,Pediatria,2417,2026-09-02 16:00:00,11,Quarta,Tarde,16,9,Tosse persistente e coriza,Sala 301,260.0,45,260.0,13,3,Agendada,
+503,9,37,Masculino,5,Neurologia,4559,2026-09-04 15:00:00,13,Sexta,Tarde,15,9,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,9,4,Agendada,
+504,13,45,Masculino,1,Cardiologia,3138,2026-09-05 15:45:00,1,Sábado,Tarde,15,9,Dor no peito e palpitações ao esforço,Sala 101,300.0,40,300.0,9,1,Agendada,
+505,34,76,Feminino,2,Dermatologia,2670,2026-09-05 16:45:00,2,Sábado,Tarde,16,9,Revisão pós-tratamento de pele,Sala 202,250.0,30,250.0,15,2,Agendada,
+506,23,63,Masculino,12,Clínica Geral,2213,2026-09-05 17:00:00,3,Sábado,Tarde,17,9,Renovação de receita contínua,Sala 102,200.0,30,200.0,7,0,Agendada,
+507,19,40,Masculino,9,Psiquiatria,5189,2026-09-09 13:45:00,1,Quarta,Tarde,13,9,Retorno para ajuste de medicação,Sala 210,320.0,50,320.0,18,0,Agendada,
+508,18,59,Feminino,7,Endocrinologia,3234,2026-09-11 13:30:00,3,Sexta,Tarde,13,9,Acompanhamento de diabetes tipo 2 e cansaço,Sala 205,310.0,40,310.0,7,0,Agendada,
+509,20,39,Feminino,8,Oftalmologia,2551,2026-09-12 08:15:00,7,Sábado,Manhã,8,9,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,10,2,Agendada,
+510,69,43,Masculino,12,Clínica Geral,2220,2026-09-12 09:30:00,6,Sábado,Manhã,9,9,Mal-estar geral inespecífico,Sala 102,200.0,30,200.0,20,1,Agendada,
+511,4,11,Feminino,10,Gastroenterologia,1622,2026-09-18 09:45:00,4,Sexta,Manhã,9,9,Dor abdominal recorrente,Sala 106,290.0,35,290.0,10,7,Agendada,
+512,35,41,Feminino,6,Ginecologia e Obstetrícia,1908,2026-09-21 10:45:00,9,Segunda,Manhã,10,9,Acompanhamento pré-natal de rotina,Sala 108,290.0,40,290.0,15,1,Agendada,
+513,7,51,Masculino,2,Dermatologia,2688,2026-09-23 09:45:00,1,Quarta,Manhã,9,9,Erupção cutânea com prurido após cosmético,Sala 202,250.0,30,250.0,13,3,Agendada,
+514,19,40,Masculino,6,Ginecologia e Obstetrícia,1910,2026-09-23 11:15:00,9,Quarta,Manhã,11,9,Avaliação para reposição hormonal,Sala 108,290.0,40,290.0,18,0,Agendada,
+515,34,76,Feminino,8,Oftalmologia,2562,2026-09-23 11:45:00,0,Quarta,Manhã,11,9,Acompanhamento de pressão ocular,Sala 302,270.0,30,270.0,15,2,Agendada,
+516,54,25,Feminino,9,Psiquiatria,5205,2026-09-25 17:30:00,33,Sexta,Tarde,17,9,Crises de ansiedade generalizada e insônia,Sala 210,320.0,50,320.0,39,13,Agendada,
+517,17,70,Feminino,4,Pediatria,2441,2026-09-26 09:30:00,0,Sábado,Manhã,9,9,Dor de garganta e recusa alimentar,Sala 301,260.0,45,260.0,17,3,Agendada,
+518,44,50,Masculino,9,Psiquiatria,5206,2026-09-26 10:30:00,14,Sábado,Manhã,10,9,Episódios de tristeza persistente,Sala 210,320.0,50,320.0,5,3,Agendada,
+519,54,25,Feminino,2,Dermatologia,2691,2026-09-26 14:15:00,9,Sábado,Tarde,14,9,Alergia na pele e coceira persistente,Sala 202,250.0,30,250.0,39,13,Agendada,
+520,54,25,Feminino,8,Oftalmologia,2566,2026-09-27 11:45:00,6,Domingo,Manhã,11,9,Avaliação para troca de óculos,Sala 302,270.0,30,270.0,39,13,Agendada,
+521,36,46,Feminino,10,Gastroenterologia,1634,2026-09-30 11:00:00,15,Quarta,Manhã,11,9,Distensão abdominal frequente,Sala 106,290.0,35,290.0,7,1,Agendada,
+522,10,32,Feminino,5,Neurologia,4585,2026-09-30 13:00:00,10,Quarta,Tarde,13,9,Tontura recorrente e desequilíbrio,Sala 204,350.0,50,350.0,10,0,Agendada,
