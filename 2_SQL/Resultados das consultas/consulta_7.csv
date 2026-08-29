@@ -1,0 +1,18 @@
+id_paciente,paciente,telefone,id_consulta,data_hora,situacao_consulta
+1,"Carlos Eduardo Silva","(83) 98811-2233",1,"2026-08-01 08:30:00",Realizada
+1,"Carlos Eduardo Silva","(83) 98811-2233",16,"2026-08-30 08:00:00",Agendada
+2,"Mariana Souza Lima","(83) 98722-3344",2,"2026-08-01 09:15:00",Realizada
+2,"Mariana Souza Lima","(83) 98722-3344",17,"2026-08-30 10:00:00",Agendada
+3,"Lucas Pereira Ramos","(83) 98633-4455",3,"2026-08-02 10:00:00",Realizada
+4,"Fernanda Costa Oliveira","(83) 98544-5566",4,"2026-08-03 14:00:00",Realizada
+5,"Roberto Alves Monteiro","(83) 98455-6677",5,"2026-08-04 15:30:00",Realizada
+6,"Juliana Barbosa Dias","(83) 98366-7788",6,"2026-08-05 08:00:00",Realizada
+7,"Gabriel Martins Ferreira","(83) 98277-8899",7,"2026-08-06 11:00:00",Realizada
+8,"Beatriz Nogueira Mendes","(83) 98188-9900",8,"2026-08-07 16:00:00",Realizada
+9,"Thiago Rocha Cavalcanti","(83) 99911-0011",9,"2026-08-08 13:30:00",Realizada
+10,"Camila Farias Albuquerque","(83) 99822-1122",10,"2026-08-10 09:00:00",Realizada
+11,"Antônio Moreira Guimarães","(83) 99733-2233",11,"2026-08-11 10:30:00",Realizada
+12,"Larissa Vasconcelos Brito","(83) 99644-3344",12,"2026-08-12 14:30:00",Realizada
+13,"Rodrigo Teixeira Santos","(83) 99555-4455",13,"2026-08-13 11:15:00",Realizada
+14,"Patrícia Cunha Freitas","(83) 99466-5566",14,"2026-08-14 16:20:00",Realizada
+15,"Bruno Cardoso Tavares","(83) 99377-6677",15,"2026-08-15 09:40:00",Cancelada

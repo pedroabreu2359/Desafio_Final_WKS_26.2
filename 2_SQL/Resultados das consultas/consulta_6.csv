@@ -1,0 +1,16 @@
+id_medico,medico,crm,especialidade,rqu,status_principal
+11,"Dr. André Luiz Barreto",6789/PB,Pneumologia,RQU-3344,1
+5,"Dr. Eduardo Fontes Medeiros",6543/PB,Neurologia,RQU-5055,1
+7,"Dr. Gustavo Henrique Neves",8765/PB,Endocrinologia,RQU-7077,1
+7,"Dr. Gustavo Henrique Neves",8765/PB,"Clínica Geral",RQU-7078,0
+9,"Dr. Leonardo Barros Pinto",5432/PB,Psiquiatria,RQU-9099,1
+1,"Dr. Marcelo Henrique Vieira",8910/PB,Cardiologia,RQU-1011,1
+1,"Dr. Marcelo Henrique Vieira",8910/PB,"Clínica Geral",RQU-1012,0
+3,"Dr. Renato Gomes Peixoto",7456/PB,Ortopedia,RQU-3033,1
+3,"Dr. Renato Gomes Peixoto",7456/PB,"Clínica Geral",RQU-3034,0
+2,"Dra. Ana Paula Carvalho",9123/PB,Dermatologia,RQU-2022,1
+12,"Dra. Cláudia Melo Gusmão",10987/PB,"Clínica Geral",RQU-5566,1
+8,"Dra. Helena Ribeiro Brandão",9876/PB,Oftalmologia,RQU-8088,1
+6,"Dra. Priscila Dantas Xavier",11456/PB,"Ginecologia e Obstetrícia",RQU-6066,1
+10,"Dra. Sofia Montenegro Castro",12345/PB,Gastroenterologia,RQU-1122,1
+4,"Dra. Vanessa Lins Bezerra",10234/PB,Pediatria,RQU-4044,1

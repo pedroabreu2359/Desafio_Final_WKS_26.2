@@ -1,0 +1,13 @@
+nome_especialidade,total_atendimentos,idade_media_pacientes,idade_minima,idade_maxima
+Cardiologia,2,51.5,45,58
+Dermatologia,2,43.5,31,56
+Neurologia,1,66.0,66,66
+Psiquiatria,1,37.0,37,37
+"Ginecologia e Obstetrícia",1,27.0,27,27
+Pneumologia,1,64.0,64,64
+Gastroenterologia,1,32.0,32,32
+Pediatria,1,11.0,11,11
+Endocrinologia,1,51.0,51,51
+Ortopedia,1,43.0,43,43
+Oftalmologia,1,22.0,22,22
+"Clínica Geral",1,8.0,8,8
